@@ -1,0 +1,82 @@
+﻿Classe;Subtipo;ID de origem;Região;Tamanho (nt);Arquivo;Número no arquivo;Caminho no repositório;Origem;Cabeçalho de entrada
+ERV_outros;ERV1;ERV1;LTR_nao_posicionada;429;ERV_outros/ERV_LTR_nao_posicionada.fasta;1;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV1-LTR#LTR/ERVI RepbaseID: ERVI-1_SSc-LTR
+ERV_outros;ERV1;ERV1;ORF_gag;1450;ERV_outros/ERV_ORF_gag.fasta;1;dados/FASTA/ERV_outros/ERV_ORF_gag.fasta;Artigo 2019;ERV1-I#LTR/ERVI RepbaseID: ERVI-1_SSc-I|part=GAG|start=1|end=1450|len=1450|active_erv=None
+ERV_outros;ERV1;ERV1;ORF_pol;3299;ERV_outros/ERV_ORF_pol.fasta;1;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV1-I#LTR/ERVI RepbaseID: ERVI-1_SSc-I|part=POL|start=1451|end=4749|len=3299|active_erv=None
+ERV_outros;ERV1;ERV1;completas_fornecidas;8112;ERV_outros/ERV_completas_fornecidas.fasta;1;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV1-I#LTR/ERVI RepbaseID: ERVI-1_SSc-I
+ERV_outros;ERV1;ERV1;remanescente_nao_anotado;3363;ERV_outros/ERV_remanescente_nao_anotado.fasta;1;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV1-I#LTR/ERVI RepbaseID: ERVI-1_SSc-I|part=TAIL|start=4750|end=8112|len=3363|active_erv=None
+ERV_outros;ERV10;ERV10;LTR_nao_posicionada;359;ERV_outros/ERV_LTR_nao_posicionada.fasta;2;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV10-LTR#LTR/ERVI RepbaseID: ERVIN-1A2_Sus_LTR
+ERV_outros;ERV10;ERV10;ORF_pol;1846;ERV_outros/ERV_ORF_pol.fasta;2;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV10-I#LTR/ERVI RepbaseID: ERVIN-1A2_Sus_I|part=POL|start=1|end=1846|len=1846|active_erv=None
+ERV_outros;ERV10;ERV10;completas_fornecidas;7149;ERV_outros/ERV_completas_fornecidas.fasta;2;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV10-I#LTR/ERVI RepbaseID: ERVIN-1A2_Sus_I
+ERV_outros;ERV10;ERV10;remanescente_nao_anotado;5303;ERV_outros/ERV_remanescente_nao_anotado.fasta;2;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV10-I#LTR/ERVI RepbaseID: ERVIN-1A2_Sus_I|part=TAIL|start=1847|end=7149|len=5303|active_erv=None
+ERV_outros;ERV11;ERV11;LTR_nao_posicionada;318;ERV_outros/ERV_LTR_nao_posicionada.fasta;3;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV11-LTR#LTR/ERVI
+ERV_outros;ERV11;ERV11;completas_fornecidas;7855;ERV_outros/ERV_completas_fornecidas.fasta;3;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV11-I#LTR/ERVI
+ERV_outros;ERV11;ERV11;remanescente_nao_anotado;7855;ERV_outros/ERV_remanescente_nao_anotado.fasta;3;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV11-I#LTR/ERVI|part=TAIL|start=1|end=7855|len=7855|active_erv=None
+ERV_outros;ERV12;ERV12;LTR_nao_posicionada;119;ERV_outros/ERV_LTR_nao_posicionada.fasta;4;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV12-LTR#LTR/ERVI
+ERV_outros;ERV12;ERV12;ORF_pol;2974;ERV_outros/ERV_ORF_pol.fasta;3;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV12-I#LTR/ERVI|part=POL|start=1|end=2974|len=2974|active_erv=None
+ERV_outros;ERV12;ERV12;completas_fornecidas;9770;ERV_outros/ERV_completas_fornecidas.fasta;4;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV12-I#LTR/ERVI
+ERV_outros;ERV12;ERV12;remanescente_nao_anotado;6796;ERV_outros/ERV_remanescente_nao_anotado.fasta;4;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV12-I#LTR/ERVI|part=TAIL|start=2975|end=9770|len=6796|active_erv=None
+ERV_outros;ERV13;ERV13;LTR_nao_posicionada;252;ERV_outros/ERV_LTR_nao_posicionada.fasta;5;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV13-LTR#LTR/ERVI
+ERV_outros;ERV13;ERV13;completas_fornecidas;13653;ERV_outros/ERV_completas_fornecidas.fasta;5;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV13-I#LTR/ERVI
+ERV_outros;ERV13;ERV13;remanescente_nao_anotado;13653;ERV_outros/ERV_remanescente_nao_anotado.fasta;5;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV13-I#LTR/ERVI|part=TAIL|start=1|end=13653|len=13653|active_erv=None
+ERV_outros;ERV14;ERV14;LTR_nao_posicionada;281;ERV_outros/ERV_LTR_nao_posicionada.fasta;6;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV14-LTR#LTR/ERVIII
+ERV_outros;ERV14;ERV14;completas_fornecidas;11167;ERV_outros/ERV_completas_fornecidas.fasta;6;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV14-I#LTR/ERVIII
+ERV_outros;ERV14;ERV14;remanescente_nao_anotado;11167;ERV_outros/ERV_remanescente_nao_anotado.fasta;6;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV14-I#LTR/ERVIII|part=TAIL|start=1|end=11167|len=11167|active_erv=None
+ERV_outros;ERV15;ERV15;completas_fornecidas;4890;ERV_outros/ERV_completas_fornecidas.fasta;7;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV15#LTR/ERVII
+ERV_outros;ERV16;ERV16;LTR_nao_posicionada;352;ERV_outros/ERV_LTR_nao_posicionada.fasta;7;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV16-LTR#LTR/ERVII
+ERV_outros;ERV16;ERV16;completas_fornecidas;9036;ERV_outros/ERV_completas_fornecidas.fasta;8;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV16-I#LTR/ERVII
+ERV_outros;ERV16;ERV16;remanescente_nao_anotado;9036;ERV_outros/ERV_remanescente_nao_anotado.fasta;7;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV16-I#LTR/ERVII|part=TAIL|start=1|end=9036|len=9036|active_erv=None
+ERV_outros;ERV17;ERV17;LTR_nao_posicionada;184;ERV_outros/ERV_LTR_nao_posicionada.fasta;8;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV17-LTR#LTR/ERVII
+ERV_outros;ERV17;ERV17;completas_fornecidas;6298;ERV_outros/ERV_completas_fornecidas.fasta;9;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV17-I#LTR/ERVII
+ERV_outros;ERV17;ERV17;remanescente_nao_anotado;6298;ERV_outros/ERV_remanescente_nao_anotado.fasta;8;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV17-I#LTR/ERVII|part=TAIL|start=1|end=6298|len=6298|active_erv=None
+ERV_outros;ERV18;ERV18;LTR_nao_posicionada;498;ERV_outros/ERV_LTR_nao_posicionada.fasta;9;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV18-LTR#LTR/ERVII
+ERV_outros;ERV18;ERV18;completas_fornecidas;7233;ERV_outros/ERV_completas_fornecidas.fasta;10;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV18-I#LTR/ERVII
+ERV_outros;ERV18;ERV18;remanescente_nao_anotado;7233;ERV_outros/ERV_remanescente_nao_anotado.fasta;9;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV18-I#LTR/ERVII|part=TAIL|start=1|end=7233|len=7233|active_erv=None
+ERV_outros;ERV2;ERV2;LTR_nao_posicionada;347;ERV_outros/ERV_LTR_nao_posicionada.fasta;10;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV2-LTR#LTR/ERVI RepbaseID: ERVI-4_SSc-LTR
+ERV_outros;ERV2;ERV2;ORF_gag;1279;ERV_outros/ERV_ORF_gag.fasta;2;dados/FASTA/ERV_outros/ERV_ORF_gag.fasta;Artigo 2019;ERV2-I#LTR/ERVI RepbaseID: ERVI-4_Sus_I|part=GAG|start=1|end=1279|len=1279|active_erv=None
+ERV_outros;ERV2;ERV2;ORF_pol;2822;ERV_outros/ERV_ORF_pol.fasta;4;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV2-I#LTR/ERVI RepbaseID: ERVI-4_Sus_I|part=POL|start=1280|end=4101|len=2822|active_erv=None
+ERV_outros;ERV2;ERV2;completas_fornecidas;6556;ERV_outros/ERV_completas_fornecidas.fasta;11;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV2-I#LTR/ERVI RepbaseID: ERVI-4_Sus_I
+ERV_outros;ERV2;ERV2;remanescente_nao_anotado;2455;ERV_outros/ERV_remanescente_nao_anotado.fasta;10;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV2-I#LTR/ERVI RepbaseID: ERVI-4_Sus_I|part=TAIL|start=4102|end=6556|len=2455|active_erv=None
+ERV_outros;ERV3;ERV3;LTR_nao_posicionada;448;ERV_outros/ERV_LTR_nao_posicionada.fasta;11;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV3-LTR#LTR/ERVI
+ERV_outros;ERV3;ERV3;ORF_gag;1440;ERV_outros/ERV_ORF_gag.fasta;3;dados/FASTA/ERV_outros/ERV_ORF_gag.fasta;Artigo 2019;ERV3-I#LTR/ERVI|part=GAG|start=1|end=1440|len=1440|active_erv=None
+ERV_outros;ERV3;ERV3;ORF_pol;3361;ERV_outros/ERV_ORF_pol.fasta;5;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV3-I#LTR/ERVI|part=POL|start=1441|end=4801|len=3361|active_erv=None
+ERV_outros;ERV3;ERV3;completas_fornecidas;8163;ERV_outros/ERV_completas_fornecidas.fasta;12;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV3-I#LTR/ERVI
+ERV_outros;ERV3;ERV3;remanescente_nao_anotado;3362;ERV_outros/ERV_remanescente_nao_anotado.fasta;11;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV3-I#LTR/ERVI|part=TAIL|start=4802|end=8163|len=3362|active_erv=None
+ERV_outros;ERV4;ERV4;LTR_nao_posicionada;429;ERV_outros/ERV_LTR_nao_posicionada.fasta;12;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV4-LTR#LTR/ERVI RepbaseID: ERVIN-3_SSc-LTR
+ERV_outros;ERV4;ERV4;ORF_pol;1769;ERV_outros/ERV_ORF_pol.fasta;6;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV4-I#LTR/ERVI RepbaseID: ERVIN-3_SSc-I|part=POL|start=1|end=1769|len=1769|active_erv=None
+ERV_outros;ERV4;ERV4;completas_fornecidas;4110;ERV_outros/ERV_completas_fornecidas.fasta;13;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV4-I#LTR/ERVI RepbaseID: ERVIN-3_SSc-I
+ERV_outros;ERV4;ERV4;remanescente_nao_anotado;2341;ERV_outros/ERV_remanescente_nao_anotado.fasta;12;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV4-I#LTR/ERVI RepbaseID: ERVIN-3_SSc-I|part=TAIL|start=1770|end=4110|len=2341|active_erv=None
+ERV_outros;ERV5;ERV5;LTR_nao_posicionada;720;ERV_outros/ERV_LTR_nao_posicionada.fasta;13;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV5-LTR#LTR/ERVI
+ERV_outros;ERV5;ERV5;ORF_pol;3366;ERV_outros/ERV_ORF_pol.fasta;7;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV5-I#LTR/ERVI|part=POL|start=1|end=3366|len=3366|active_erv=None
+ERV_outros;ERV5;ERV5;completas_fornecidas;7283;ERV_outros/ERV_completas_fornecidas.fasta;14;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV5-I#LTR/ERVI
+ERV_outros;ERV5;ERV5;remanescente_nao_anotado;3917;ERV_outros/ERV_remanescente_nao_anotado.fasta;13;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV5-I#LTR/ERVI|part=TAIL|start=3367|end=7283|len=3917|active_erv=None
+ERV_outros;ERV7;ERV7;LTR_nao_posicionada;268;ERV_outros/ERV_LTR_nao_posicionada.fasta;14;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV7-LTR#LTR/ERVI
+ERV_outros;ERV7;ERV7;completas_fornecidas;10750;ERV_outros/ERV_completas_fornecidas.fasta;15;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV7-I#LTR/ERVI
+ERV_outros;ERV7;ERV7;remanescente_nao_anotado;10750;ERV_outros/ERV_remanescente_nao_anotado.fasta;14;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV7-I#LTR/ERVI|part=TAIL|start=1|end=10750|len=10750|active_erv=None
+ERV_outros;ERV8;ERV8;LTR_nao_posicionada;308;ERV_outros/ERV_LTR_nao_posicionada.fasta;15;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV8-LTR#LTR/ERVI RepbaseID: ERVI-3_SSc-LTR
+ERV_outros;ERV8;ERV8;ORF_pol;3057;ERV_outros/ERV_ORF_pol.fasta;8;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV8-I#LTR/ERVI RepbaseID: ERVI-3_Sus-I|part=POL|start=1|end=3057|len=3057|active_erv=None
+ERV_outros;ERV8;ERV8;completas_fornecidas;5796;ERV_outros/ERV_completas_fornecidas.fasta;16;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV8-I#LTR/ERVI RepbaseID: ERVI-3_Sus-I
+ERV_outros;ERV8;ERV8;remanescente_nao_anotado;2739;ERV_outros/ERV_remanescente_nao_anotado.fasta;15;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV8-I#LTR/ERVI RepbaseID: ERVI-3_Sus-I|part=TAIL|start=3058|end=5796|len=2739|active_erv=None
+ERV_outros;ERV9;ERV9;LTR_nao_posicionada;104;ERV_outros/ERV_LTR_nao_posicionada.fasta;16;dados/FASTA/ERV_outros/ERV_LTR_nao_posicionada.fasta;Artigo 2019;ERV9-LTR#LTR/ERVI
+ERV_outros;ERV9;ERV9;ORF_pol;1728;ERV_outros/ERV_ORF_pol.fasta;9;dados/FASTA/ERV_outros/ERV_ORF_pol.fasta;Artigo 2019;ERV9-I#LTR/ERVI|part=POL|start=1|end=1728|len=1728|active_erv=None
+ERV_outros;ERV9;ERV9;completas_fornecidas;7954;ERV_outros/ERV_completas_fornecidas.fasta;17;dados/FASTA/ERV_outros/ERV_completas_fornecidas.fasta;Artigo 2019;ERV9-I#LTR/ERVI
+ERV_outros;ERV9;ERV9;remanescente_nao_anotado;6226;ERV_outros/ERV_remanescente_nao_anotado.fasta;16;dados/FASTA/ERV_outros/ERV_remanescente_nao_anotado.fasta;Artigo 2019;ERV9-I#LTR/ERVI|part=TAIL|start=1729|end=7954|len=6226|active_erv=None
+Referencia_RNA;7SLRNA;7SLRNA;completas_fornecidas;320;Referencias_RNA/7SLRNA_completas_fornecidas.fasta;1;dados/FASTA/Referencias_RNA/7SLRNA_completas_fornecidas.fasta;Artigo 2019;7SLRNA#SINE
+SINE_referencias;AmnSINE1;AmnSINE1;completas_fornecidas;575;Referencias_SINE/SINE_completas_fornecidas.fasta;1;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;AmnSINE1#SINE
+SINE_referencias;AmnSINE2;AmnSINE2;completas_fornecidas;358;Referencias_SINE/SINE_completas_fornecidas.fasta;2;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;AmnSINE2#SINE
+SINE_referencias;CHR-1;CHR-1;completas_fornecidas;115;Referencias_SINE/SINE_completas_fornecidas.fasta;3;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;CHR-1#SINE
+SINE_referencias;CHR-2;CHR-2;completas_fornecidas;344;Referencias_SINE/SINE_completas_fornecidas.fasta;4;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;CHR-2#SINE
+SINE_referencias;CHRL;CHRL;completas_fornecidas;167;Referencias_SINE/SINE_completas_fornecidas.fasta;5;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;CHRL#SINE
+SINE_referencias;CRP1;CRP1;completas_fornecidas;257;Referencias_SINE/SINE_completas_fornecidas.fasta;6;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;CRP1#SINE
+SINE_referencias;LFSINE_Vert;LFSINE_Vert;completas_fornecidas;459;Referencias_SINE/SINE_completas_fornecidas.fasta;7;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;LFSINE_Vert#SINE
+SINE_referencias;LmeSINE1c;LmeSINE1c;completas_fornecidas;403;Referencias_SINE/SINE_completas_fornecidas.fasta;8;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;LmeSINE1c#SINE
+SINE_referencias;MIR;MIR;completas_fornecidas;262;Referencias_SINE/SINE_completas_fornecidas.fasta;10;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MIR#SINE
+SINE_referencias;MIR1_Amn;MIR1_Amn;completas_fornecidas;230;Referencias_SINE/SINE_completas_fornecidas.fasta;11;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MIR1_Amn#SINE
+SINE_referencias;MIR3;MIR3;completas_fornecidas;207;Referencias_SINE/SINE_completas_fornecidas.fasta;12;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MIR3#SINE
+SINE_referencias;MIRb;MIRb;completas_fornecidas;268;Referencias_SINE/SINE_completas_fornecidas.fasta;13;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MIRb#SINE
+SINE_referencias;MIRc;MIRc;completas_fornecidas;268;Referencias_SINE/SINE_completas_fornecidas.fasta;14;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MIRc#SINE
+SINE_referencias;MamSINE1;MamSINE1;completas_fornecidas;289;Referencias_SINE/SINE_completas_fornecidas.fasta;9;dados/FASTA/Referencias_SINE/SINE_completas_fornecidas.fasta;Artigo 2019;MamSINE1#SINE
+SINE_transcritos;SINE associado a transcrito;SEQ-113;body;288;SINE/SINE_body.fasta;114;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-113|SINE|None_None_None|SINE_associado_a_transcrito
+SINE_transcritos;SINE associado a transcrito;SEQ-113;head;5045;SINE/SINE_head.fasta;114;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-113|SINE|None_None_None|SINE_associado_a_transcrito
+SINE_transcritos;SINE associado a transcrito;SEQ-114;body;362;SINE/SINE_body.fasta;113;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-114|SINE|None_None_None|SINE_associado_a_transcrito
+SINE_transcritos;SINE associado a transcrito;SEQ-114;head;5087;SINE/SINE_head.fasta;113;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-114|SINE|None_None_None|SINE_associado_a_transcrito
+SINE_transcritos;SINE associado a transcrito;SEQ-115;nao_separadas;2191;SINE/SINE_nao_separadas.fasta;10;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-115|SINE|None_None_None|SINE_associado_a_transcrito

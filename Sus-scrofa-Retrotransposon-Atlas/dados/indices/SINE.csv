@@ -1,0 +1,405 @@
+﻿Classe;Subtipo;ID de origem;Região;Tamanho (nt);Arquivo;Número no arquivo;Caminho no repositório;Origem;Cabeçalho de entrada
+SINE;PRE-1;PRE-1;body;165;SINE/SINE_body.fasta;2;dados/FASTA/SINE/SINE_body.fasta;Anterior;PRE-1#SINE/otherSINE
+SINE;PRE-1;PRE-1;head;68;SINE/SINE_head.fasta;2;dados/FASTA/SINE/SINE_head.fasta;Anterior;PRE-1#SINE/otherSINE
+SINE;PRE-1;PRE-1;tail;10;SINE/SINE_tail.fasta;1;dados/FASTA/SINE/SINE_tail.fasta;Anterior;PRE-1#SINE/otherSINE
+SINE;PRE-1;Y00104;body;165;SINE/SINE_body.fasta;1;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-001|SINE|Y00104.1|PRE-1
+SINE;PRE-1;Y00104;head;68;SINE/SINE_head.fasta;1;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-001|SINE|Y00104.1|PRE-1
+SINE;Pre0_SS;SEQ-006;nao_separadas;250;SINE/SINE_nao_separadas.fasta;9;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-006|SINE|chr1_241932894_241933143|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-007;body;184;SINE/SINE_body.fasta;112;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-007|SINE|chr16_75687060_75687314|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-007;head;65;SINE/SINE_head.fasta;112;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-007|SINE|chr16_75687060_75687314|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-007;tail;6;SINE/SINE_tail.fasta;110;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-007|SINE|chr16_75687060_75687314|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-021;body;174;SINE/SINE_body.fasta;111;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-021|SINE|chr1_119154723_119154965|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-021;head;67;SINE/SINE_head.fasta;111;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-021|SINE|chr1_119154723_119154965|Pre0_SS_SINE_tRNA_
+SINE;Pre0_SS;SEQ-021;tail;2;SINE/SINE_tail.fasta;109;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-021|SINE|chr1_119154723_119154965|Pre0_SS_SINE_tRNA_
+SINE;SINEA;SINEA1;body;207;SINE/SINE_body.fasta;3;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA1#SINE/SINEA
+SINE;SINEA;SINEA1;completas_fornecidas;294;SINE/SINE_completas_fornecidas.fasta;1;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA1_SSc#SINE/SINEA
+SINE;SINEA;SINEA1;core_sem_polyA;265;SINE/SINE_core_sem_polyA.fasta;1;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA1_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=265|len=265
+SINE;SINEA;SINEA1;head;67;SINE/SINE_head.fasta;3;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA1#SINE/SINEA
+SINE;SINEA;SINEA1;tail;20;SINE/SINE_tail.fasta;2;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA1#SINE/SINEA
+SINE;SINEA;SINEA1;tail;29;SINE/SINE_tail.fasta;111;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEA1_SSc#SINE/SINEA|part=TAIL|start=266|end=294|len=29
+SINE;SINEA;SINEA10;body;165;SINE/SINE_body.fasta;4;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA10#SINE/SINEA
+SINE;SINEA;SINEA10;completas_fornecidas;252;SINE/SINE_completas_fornecidas.fasta;10;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA10_SSc#SINE/SINEA
+SINE;SINEA;SINEA10;core_sem_polyA;239;SINE/SINE_core_sem_polyA.fasta;10;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA10_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=239|len=239
+SINE;SINEA;SINEA10;head;68;SINE/SINE_head.fasta;4;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA10#SINE/SINEA
+SINE;SINEA;SINEA10;tail;22;SINE/SINE_tail.fasta;3;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA10#SINE/SINEA
+SINE;SINEA;SINEA10;tail;13;SINE/SINE_tail.fasta;114;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEA10_SSc#SINE/SINEA|part=TAIL|start=240|end=252|len=13
+SINE;SINEA;SINEA11;body;174;SINE/SINE_body.fasta;5;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA11#SINE/SINEA
+SINE;SINEA;SINEA11;completas_fornecidas;254;SINE/SINE_completas_fornecidas.fasta;11;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA11_SSc#SINE/SINEA
+SINE;SINEA;SINEA11;core_sem_polyA;241;SINE/SINE_core_sem_polyA.fasta;11;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA11_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=241|len=241
+SINE;SINEA;SINEA11;head;67;SINE/SINE_head.fasta;5;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA11#SINE/SINEA
+SINE;SINEA;SINEA11;tail;13;SINE/SINE_tail.fasta;4;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA11#SINE/SINEA
+SINE;SINEA;SINEA2;body;182;SINE/SINE_body.fasta;6;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA2#SINE/SINEA
+SINE;SINEA;SINEA2;completas_fornecidas;263;SINE/SINE_completas_fornecidas.fasta;2;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA2_SSc#SINE/SINEA
+SINE;SINEA;SINEA2;core_sem_polyA;249;SINE/SINE_core_sem_polyA.fasta;2;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA2_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=249|len=249
+SINE;SINEA;SINEA2;head;67;SINE/SINE_head.fasta;6;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA2#SINE/SINEA
+SINE;SINEA;SINEA2;tail;14;SINE/SINE_tail.fasta;5;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA2#SINE/SINEA
+SINE;SINEA;SINEA3;body;182;SINE/SINE_body.fasta;7;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA3#SINE/SINEA
+SINE;SINEA;SINEA3;completas_fornecidas;260;SINE/SINE_completas_fornecidas.fasta;3;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA3_SSc#SINE/SINEA
+SINE;SINEA;SINEA3;core_sem_polyA;249;SINE/SINE_core_sem_polyA.fasta;3;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA3_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=249|len=249
+SINE;SINEA;SINEA3;head;67;SINE/SINE_head.fasta;7;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA3#SINE/SINEA
+SINE;SINEA;SINEA3;tail;11;SINE/SINE_tail.fasta;6;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA3#SINE/SINEA
+SINE;SINEA;SINEA4;body;182;SINE/SINE_body.fasta;8;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA4#SINE/SINEA
+SINE;SINEA;SINEA4;completas_fornecidas;263;SINE/SINE_completas_fornecidas.fasta;4;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA4_SSc#SINE/SINEA
+SINE;SINEA;SINEA4;core_sem_polyA;249;SINE/SINE_core_sem_polyA.fasta;4;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA4_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=249|len=249
+SINE;SINEA;SINEA4;head;67;SINE/SINE_head.fasta;8;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA4#SINE/SINEA
+SINE;SINEA;SINEA4;tail;14;SINE/SINE_tail.fasta;7;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA4#SINE/SINEA
+SINE;SINEA;SINEA5;body;182;SINE/SINE_body.fasta;9;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA5#SINE/SINEA
+SINE;SINEA;SINEA5;completas_fornecidas;263;SINE/SINE_completas_fornecidas.fasta;5;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA5_SSc#SINE/SINEA
+SINE;SINEA;SINEA5;core_sem_polyA;249;SINE/SINE_core_sem_polyA.fasta;5;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA5_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=249|len=249
+SINE;SINEA;SINEA5;head;67;SINE/SINE_head.fasta;9;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA5#SINE/SINEA
+SINE;SINEA;SINEA5;tail;14;SINE/SINE_tail.fasta;8;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA5#SINE/SINEA
+SINE;SINEA;SINEA6;body;173;SINE/SINE_body.fasta;10;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA6#SINE/SINEA
+SINE;SINEA;SINEA6;completas_fornecidas;257;SINE/SINE_completas_fornecidas.fasta;6;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA6_SSc#SINE/SINEA
+SINE;SINEA;SINEA6;core_sem_polyA;239;SINE/SINE_core_sem_polyA.fasta;6;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA6_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=239|len=239
+SINE;SINEA;SINEA6;head;66;SINE/SINE_head.fasta;10;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA6#SINE/SINEA
+SINE;SINEA;SINEA6;tail;20;SINE/SINE_tail.fasta;9;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA6#SINE/SINEA
+SINE;SINEA;SINEA6;tail;18;SINE/SINE_tail.fasta;112;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEA6_SSc#SINE/SINEA|part=TAIL|start=240|end=257|len=18
+SINE;SINEA;SINEA7;body;173;SINE/SINE_body.fasta;11;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA7#SINE/SINEA
+SINE;SINEA;SINEA7;completas_fornecidas;253;SINE/SINE_completas_fornecidas.fasta;7;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA7_SSc#SINE/SINEA
+SINE;SINEA;SINEA7;core_sem_polyA;239;SINE/SINE_core_sem_polyA.fasta;7;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA7_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=239|len=239
+SINE;SINEA;SINEA7;head;66;SINE/SINE_head.fasta;11;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA7#SINE/SINEA
+SINE;SINEA;SINEA7;tail;14;SINE/SINE_tail.fasta;10;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA7#SINE/SINEA
+SINE;SINEA;SINEA8;body;173;SINE/SINE_body.fasta;12;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA8#SINE/SINEA
+SINE;SINEA;SINEA8;completas_fornecidas;253;SINE/SINE_completas_fornecidas.fasta;8;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA8_SSc#SINE/SINEA
+SINE;SINEA;SINEA8;core_sem_polyA;239;SINE/SINE_core_sem_polyA.fasta;8;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA8_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=239|len=239
+SINE;SINEA;SINEA8;head;66;SINE/SINE_head.fasta;12;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA8#SINE/SINEA
+SINE;SINEA;SINEA8;tail;14;SINE/SINE_tail.fasta;11;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA8#SINE/SINEA
+SINE;SINEA;SINEA9;body;165;SINE/SINE_body.fasta;13;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEA9#SINE/SINEA
+SINE;SINEA;SINEA9;completas_fornecidas;254;SINE/SINE_completas_fornecidas.fasta;9;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEA9_SSc#SINE/SINEA
+SINE;SINEA;SINEA9;core_sem_polyA;238;SINE/SINE_core_sem_polyA.fasta;9;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEA9_SSc#SINE/SINEA|part=CORE_NO_POLYA|start=1|end=238|len=238
+SINE;SINEA;SINEA9;head;67;SINE/SINE_head.fasta;13;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEA9#SINE/SINEA
+SINE;SINEA;SINEA9;tail;22;SINE/SINE_tail.fasta;12;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEA9#SINE/SINEA
+SINE;SINEA;SINEA9;tail;16;SINE/SINE_tail.fasta;113;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEA9_SSc#SINE/SINEA|part=TAIL|start=239|end=254|len=16
+SINE;SINEB;SINEB1;body;128;SINE/SINE_body.fasta;14;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEB1#SINE/SINEB
+SINE;SINEB;SINEB1;completas_fornecidas;216;SINE/SINE_completas_fornecidas.fasta;12;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB1_SSc#SINE/SINEB
+SINE;SINEB;SINEB1;core_sem_polyA;194;SINE/SINE_core_sem_polyA.fasta;12;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB1_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=194|len=194
+SINE;SINEB;SINEB1;head;66;SINE/SINE_head.fasta;14;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEB1#SINE/SINEB
+SINE;SINEB;SINEB1;tail;22;SINE/SINE_tail.fasta;13;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEB1#SINE/SINEB
+SINE;SINEB;SINEB2;body;135;SINE/SINE_body.fasta;15;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEB2#SINE/SINEB
+SINE;SINEB;SINEB2;completas_fornecidas;216;SINE/SINE_completas_fornecidas.fasta;13;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB2_SSc#SINE/SINEB
+SINE;SINEB;SINEB2;core_sem_polyA;194;SINE/SINE_core_sem_polyA.fasta;13;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB2_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=194|len=194
+SINE;SINEB;SINEB2;head;67;SINE/SINE_head.fasta;15;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEB2#SINE/SINEB
+SINE;SINEB;SINEB2;tail;14;SINE/SINE_tail.fasta;14;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEB2#SINE/SINEB
+SINE;SINEB;SINEB2;tail;22;SINE/SINE_tail.fasta;115;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEB2_SSc#SINE/SINEB|part=TAIL|start=195|end=216|len=22
+SINE;SINEB;SINEB3;completas_fornecidas;201;SINE/SINE_completas_fornecidas.fasta;14;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB3_SSc#SINE/SINEB
+SINE;SINEB;SINEB3;core_sem_polyA;186;SINE/SINE_core_sem_polyA.fasta;14;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB3_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=186|len=186
+SINE;SINEB;SINEB3;nao_separadas;202;SINE/SINE_nao_separadas.fasta;1;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SscSINEB3#SINE/SINEB
+SINE;SINEB;SINEB3;tail;15;SINE/SINE_tail.fasta;116;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEB3_SSc#SINE/SINEB|part=TAIL|start=187|end=201|len=15
+SINE;SINEB;SINEB4;body;133;SINE/SINE_body.fasta;16;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEB4#SINE/SINEB
+SINE;SINEB;SINEB4;completas_fornecidas;225;SINE/SINE_completas_fornecidas.fasta;15;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB4_SSc#SINE/SINEB
+SINE;SINEB;SINEB4;core_sem_polyA;202;SINE/SINE_core_sem_polyA.fasta;15;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB4_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=202|len=202
+SINE;SINEB;SINEB4;head;78;SINE/SINE_head.fasta;16;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEB4#SINE/SINEB
+SINE;SINEB;SINEB4;tail;14;SINE/SINE_tail.fasta;15;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEB4#SINE/SINEB
+SINE;SINEB;SINEB4;tail;23;SINE/SINE_tail.fasta;117;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEB4_SSc#SINE/SINEB|part=TAIL|start=203|end=225|len=23
+SINE;SINEB;SINEB5;body;132;SINE/SINE_body.fasta;17;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEB5#SINE/SINEB
+SINE;SINEB;SINEB5;completas_fornecidas;214;SINE/SINE_completas_fornecidas.fasta;16;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB5_SSc#SINE/SINEB
+SINE;SINEB;SINEB5;core_sem_polyA;191;SINE/SINE_core_sem_polyA.fasta;16;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB5_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=191|len=191
+SINE;SINEB;SINEB5;head;68;SINE/SINE_head.fasta;17;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEB5#SINE/SINEB
+SINE;SINEB;SINEB5;tail;14;SINE/SINE_tail.fasta;16;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEB5#SINE/SINEB
+SINE;SINEB;SINEB5;tail;23;SINE/SINE_tail.fasta;118;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEB5_SSc#SINE/SINEB|part=TAIL|start=192|end=214|len=23
+SINE;SINEB;SINEB6;body;142;SINE/SINE_body.fasta;18;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEB6#SINE/SINEB
+SINE;SINEB;SINEB6;completas_fornecidas;221;SINE/SINE_completas_fornecidas.fasta;17;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEB6_SSc#SINE/SINEB
+SINE;SINEB;SINEB6;core_sem_polyA;203;SINE/SINE_core_sem_polyA.fasta;17;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEB6_SSc#SINE/SINEB|part=CORE_NO_POLYA|start=1|end=203|len=203
+SINE;SINEB;SINEB6;head;79;SINE/SINE_head.fasta;18;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEB6#SINE/SINEB
+SINE;SINEB;SINEB6;tail;18;SINE/SINE_tail.fasta;119;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEB6_SSc#SINE/SINEB|part=TAIL|start=204|end=221|len=18
+SINE;SINEC;SINEC1;completas_fornecidas;126;SINE/SINE_completas_fornecidas.fasta;18;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC1_SSc#SINE/SINEC
+SINE;SINEC;SINEC1;core_sem_polyA;121;SINE/SINE_core_sem_polyA.fasta;18;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC1_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=121|len=121
+SINE;SINEC;SINEC1;nao_separadas;131;SINE/SINE_nao_separadas.fasta;2;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SscSINEC1#SINE/SINEC
+SINE;SINEC;SINEC1;tail;5;SINE/SINE_tail.fasta;120;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEC1_SSc#SINE/SINEC|part=TAIL|start=122|end=126|len=5
+SINE;SINEC;SINEC2;core_sem_polyA;122;SINE/SINE_core_sem_polyA.fasta;19;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC2_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=122|len=122
+SINE;SINEC;SINEC2;nao_separadas;131;SINE/SINE_nao_separadas.fasta;3;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SscSINEC2#SINE/SINEC
+SINE;SINEC;SINEC2;tail;9;SINE/SINE_tail.fasta;121;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEC2_SSc#SINE/SINEC|part=TAIL|start=123|end=131|len=9
+SINE;SINEC;SINEC3;body;36;SINE/SINE_body.fasta;19;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEC3#SINE/SINEC
+SINE;SINEC;SINEC3;completas_fornecidas;119;SINE/SINE_completas_fornecidas.fasta;19;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC3_SSc#SINE/SINEC
+SINE;SINEC;SINEC3;core_sem_polyA;103;SINE/SINE_core_sem_polyA.fasta;20;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC3_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=103|len=103
+SINE;SINEC;SINEC3;head;67;SINE/SINE_head.fasta;19;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEC3#SINE/SINEC
+SINE;SINEC;SINEC3;tail;16;SINE/SINE_tail.fasta;17;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEC3#SINE/SINEC
+SINE;SINEC;SINEC4;body;36;SINE/SINE_body.fasta;20;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEC4#SINE/SINEC
+SINE;SINEC;SINEC4;completas_fornecidas;134;SINE/SINE_completas_fornecidas.fasta;20;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC4_SSc#SINE/SINEC
+SINE;SINEC;SINEC4;core_sem_polyA;121;SINE/SINE_core_sem_polyA.fasta;21;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC4_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=121|len=121
+SINE;SINEC;SINEC4;head;85;SINE/SINE_head.fasta;20;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEC4#SINE/SINEC
+SINE;SINEC;SINEC4;tail;13;SINE/SINE_tail.fasta;18;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEC4#SINE/SINEC
+SINE;SINEC;SINEC5;body;36;SINE/SINE_body.fasta;21;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEC5#SINE/SINEC
+SINE;SINEC;SINEC5;completas_fornecidas;127;SINE/SINE_completas_fornecidas.fasta;21;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC5_SSc#SINE/SINEC
+SINE;SINEC;SINEC5;core_sem_polyA;121;SINE/SINE_core_sem_polyA.fasta;22;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC5_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=121|len=121
+SINE;SINEC;SINEC5;head;85;SINE/SINE_head.fasta;21;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEC5#SINE/SINEC
+SINE;SINEC;SINEC5;tail;6;SINE/SINE_tail.fasta;19;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEC5#SINE/SINEC
+SINE;SINEC;SINEC6;core_sem_polyA;102;SINE/SINE_core_sem_polyA.fasta;23;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC6_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=102|len=102
+SINE;SINEC;SINEC6;nao_separadas;123;SINE/SINE_nao_separadas.fasta;4;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SscSINEC6#SINE/SINEC
+SINE;SINEC;SINEC6;tail;21;SINE/SINE_tail.fasta;122;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEC6_SSc#SINE/SINEC|part=TAIL|start=103|end=123|len=21
+SINE;SINEC;SINEC7;body;48;SINE/SINE_body.fasta;22;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEC7#SINE/SINEC
+SINE;SINEC;SINEC7;completas_fornecidas;137;SINE/SINE_completas_fornecidas.fasta;22;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC7_SSc#SINE/SINEC
+SINE;SINEC;SINEC7;core_sem_polyA;113;SINE/SINE_core_sem_polyA.fasta;24;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC7_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=113|len=113
+SINE;SINEC;SINEC7;head;65;SINE/SINE_head.fasta;22;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEC7#SINE/SINEC
+SINE;SINEC;SINEC7;tail;24;SINE/SINE_tail.fasta;20;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEC7#SINE/SINEC
+SINE;SINEC;SINEC8;body;59;SINE/SINE_body.fasta;23;dados/FASTA/SINE/SINE_body.fasta;Anterior;SscSINEC8#SINE/SINEC
+SINE;SINEC;SINEC8;completas_fornecidas;155;SINE/SINE_completas_fornecidas.fasta;23;dados/FASTA/SINE/SINE_completas_fornecidas.fasta;Artigo 2019;SINEC8_SSc#SINE/SINEC
+SINE;SINEC;SINEC8;core_sem_polyA;123;SINE/SINE_core_sem_polyA.fasta;25;dados/FASTA/SINE/SINE_core_sem_polyA.fasta;Artigo 2019;SINEC8_SSc#SINE/SINEC|part=CORE_NO_POLYA|start=1|end=123|len=123
+SINE;SINEC;SINEC8;head;88;SINE/SINE_head.fasta;23;dados/FASTA/SINE/SINE_head.fasta;Anterior;SscSINEC8#SINE/SINEC
+SINE;SINEC;SINEC8;tail;8;SINE/SINE_tail.fasta;21;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SscSINEC8#SINE/SINEC
+SINE;SINEC;SINEC8;tail;32;SINE/SINE_tail.fasta;123;dados/FASTA/SINE/SINE_tail.fasta;Artigo 2019;SINEC8_SSc#SINE/SINEC|part=TAIL|start=124|end=155|len=32
+SINE;YoungSINE L;SEQ-023;body;183;SINE/SINE_body.fasta;25;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-023|SINE|None_None_None|L01
+SINE;YoungSINE L;SEQ-023;head;66;SINE/SINE_head.fasta;25;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-023|SINE|None_None_None|L01
+SINE;YoungSINE L;SEQ-023;tail;2;SINE/SINE_tail.fasta;23;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-023|SINE|None_None_None|L01
+SINE;YoungSINE L;SEQ-024;body;175;SINE/SINE_body.fasta;26;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-024|SINE|None_None_None|L02
+SINE;YoungSINE L;SEQ-024;head;66;SINE/SINE_head.fasta;26;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-024|SINE|None_None_None|L02
+SINE;YoungSINE L;SEQ-024;tail;10;SINE/SINE_tail.fasta;24;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-024|SINE|None_None_None|L02
+SINE;YoungSINE L;SEQ-025;body;182;SINE/SINE_body.fasta;27;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-025|SINE|None_None_None|L03
+SINE;YoungSINE L;SEQ-025;head;66;SINE/SINE_head.fasta;27;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-025|SINE|None_None_None|L03
+SINE;YoungSINE L;SEQ-025;tail;3;SINE/SINE_tail.fasta;25;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-025|SINE|None_None_None|L03
+SINE;YoungSINE L;SEQ-026;body;182;SINE/SINE_body.fasta;28;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-026|SINE|None_None_None|L04
+SINE;YoungSINE L;SEQ-026;head;66;SINE/SINE_head.fasta;28;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-026|SINE|None_None_None|L04
+SINE;YoungSINE L;SEQ-026;tail;3;SINE/SINE_tail.fasta;26;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-026|SINE|None_None_None|L04
+SINE;YoungSINE L;SEQ-027;body;182;SINE/SINE_body.fasta;29;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-027|SINE|None_None_None|L05
+SINE;YoungSINE L;SEQ-027;head;66;SINE/SINE_head.fasta;29;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-027|SINE|None_None_None|L05
+SINE;YoungSINE L;SEQ-027;tail;3;SINE/SINE_tail.fasta;27;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-027|SINE|None_None_None|L05
+SINE;YoungSINE L;SEQ-028;body;182;SINE/SINE_body.fasta;30;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-028|SINE|None_None_None|L06
+SINE;YoungSINE L;SEQ-028;head;66;SINE/SINE_head.fasta;30;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-028|SINE|None_None_None|L06
+SINE;YoungSINE L;SEQ-028;tail;3;SINE/SINE_tail.fasta;28;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-028|SINE|None_None_None|L06
+SINE;YoungSINE L;SEQ-029;body;182;SINE/SINE_body.fasta;31;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-029|SINE|None_None_None|L07
+SINE;YoungSINE L;SEQ-029;head;66;SINE/SINE_head.fasta;31;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-029|SINE|None_None_None|L07
+SINE;YoungSINE L;SEQ-029;tail;3;SINE/SINE_tail.fasta;29;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-029|SINE|None_None_None|L07
+SINE;YoungSINE L;SEQ-030;body;182;SINE/SINE_body.fasta;32;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-030|SINE|None_None_None|L08
+SINE;YoungSINE L;SEQ-030;head;66;SINE/SINE_head.fasta;32;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-030|SINE|None_None_None|L08
+SINE;YoungSINE L;SEQ-030;tail;3;SINE/SINE_tail.fasta;30;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-030|SINE|None_None_None|L08
+SINE;YoungSINE L;SEQ-031;body;182;SINE/SINE_body.fasta;33;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-031|SINE|None_None_None|L09
+SINE;YoungSINE L;SEQ-031;head;66;SINE/SINE_head.fasta;33;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-031|SINE|None_None_None|L09
+SINE;YoungSINE L;SEQ-031;tail;3;SINE/SINE_tail.fasta;31;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-031|SINE|None_None_None|L09
+SINE;YoungSINE L;SEQ-032;body;182;SINE/SINE_body.fasta;34;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-032|SINE|None_None_None|L10
+SINE;YoungSINE L;SEQ-032;head;66;SINE/SINE_head.fasta;34;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-032|SINE|None_None_None|L10
+SINE;YoungSINE L;SEQ-032;tail;3;SINE/SINE_tail.fasta;32;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-032|SINE|None_None_None|L10
+SINE;YoungSINE L;SEQ-033;body;182;SINE/SINE_body.fasta;35;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-033|SINE|None_None_None|L11
+SINE;YoungSINE L;SEQ-033;head;66;SINE/SINE_head.fasta;35;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-033|SINE|None_None_None|L11
+SINE;YoungSINE L;SEQ-033;tail;3;SINE/SINE_tail.fasta;33;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-033|SINE|None_None_None|L11
+SINE;YoungSINE L;SEQ-034;nao_separadas;251;SINE/SINE_nao_separadas.fasta;5;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-034|SINE|None_None_None|L12
+SINE;YoungSINE L;SEQ-035;body;174;SINE/SINE_body.fasta;36;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-035|SINE|None_None_None|L13
+SINE;YoungSINE L;SEQ-035;head;66;SINE/SINE_head.fasta;36;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-035|SINE|None_None_None|L13
+SINE;YoungSINE L;SEQ-035;tail;11;SINE/SINE_tail.fasta;34;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-035|SINE|None_None_None|L13
+SINE;YoungSINE L;SEQ-036;body;183;SINE/SINE_body.fasta;37;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-036|SINE|None_None_None|L14
+SINE;YoungSINE L;SEQ-036;head;66;SINE/SINE_head.fasta;37;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-036|SINE|None_None_None|L14
+SINE;YoungSINE L;SEQ-036;tail;2;SINE/SINE_tail.fasta;35;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-036|SINE|None_None_None|L14
+SINE;YoungSINE L;SEQ-037;body;174;SINE/SINE_body.fasta;38;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-037|SINE|None_None_None|L15
+SINE;YoungSINE L;SEQ-037;head;66;SINE/SINE_head.fasta;38;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-037|SINE|None_None_None|L15
+SINE;YoungSINE L;SEQ-037;tail;2;SINE/SINE_tail.fasta;36;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-037|SINE|None_None_None|L15
+SINE;YoungSINE L;SEQ-038;body;174;SINE/SINE_body.fasta;39;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-038|SINE|None_None_None|L16
+SINE;YoungSINE L;SEQ-038;head;66;SINE/SINE_head.fasta;39;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-038|SINE|None_None_None|L16
+SINE;YoungSINE L;SEQ-038;tail;2;SINE/SINE_tail.fasta;37;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-038|SINE|None_None_None|L16
+SINE;YoungSINE L;SEQ-039;body;174;SINE/SINE_body.fasta;40;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-039|SINE|None_None_None|L17
+SINE;YoungSINE L;SEQ-039;head;66;SINE/SINE_head.fasta;40;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-039|SINE|None_None_None|L17
+SINE;YoungSINE L;SEQ-039;tail;2;SINE/SINE_tail.fasta;38;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-039|SINE|None_None_None|L17
+SINE;YoungSINE M;SEQ-040;body;164;SINE/SINE_body.fasta;41;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-040|SINE|None_None_None|M01
+SINE;YoungSINE M;SEQ-040;head;66;SINE/SINE_head.fasta;41;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-040|SINE|None_None_None|M01
+SINE;YoungSINE M;SEQ-040;tail;21;SINE/SINE_tail.fasta;39;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-040|SINE|None_None_None|M01
+SINE;YoungSINE M;SEQ-041;body;163;SINE/SINE_body.fasta;42;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-041|SINE|None_None_None|M02
+SINE;YoungSINE M;SEQ-041;head;66;SINE/SINE_head.fasta;42;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-041|SINE|None_None_None|M02
+SINE;YoungSINE M;SEQ-041;tail;22;SINE/SINE_tail.fasta;40;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-041|SINE|None_None_None|M02
+SINE;YoungSINE M;SEQ-042;body;164;SINE/SINE_body.fasta;43;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-042|SINE|None_None_None|M03
+SINE;YoungSINE M;SEQ-042;head;66;SINE/SINE_head.fasta;43;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-042|SINE|None_None_None|M03
+SINE;YoungSINE M;SEQ-042;tail;21;SINE/SINE_tail.fasta;41;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-042|SINE|None_None_None|M03
+SINE;YoungSINE M;SEQ-043;body;182;SINE/SINE_body.fasta;44;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-043|SINE|None_None_None|M04
+SINE;YoungSINE M;SEQ-043;head;66;SINE/SINE_head.fasta;44;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-043|SINE|None_None_None|M04
+SINE;YoungSINE M;SEQ-043;tail;3;SINE/SINE_tail.fasta;42;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-043|SINE|None_None_None|M04
+SINE;YoungSINE M;SEQ-044;body;182;SINE/SINE_body.fasta;45;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-044|SINE|None_None_None|M05
+SINE;YoungSINE M;SEQ-044;head;66;SINE/SINE_head.fasta;45;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-044|SINE|None_None_None|M05
+SINE;YoungSINE M;SEQ-044;tail;3;SINE/SINE_tail.fasta;43;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-044|SINE|None_None_None|M05
+SINE;YoungSINE M;SEQ-045;body;182;SINE/SINE_body.fasta;46;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-045|SINE|None_None_None|M06
+SINE;YoungSINE M;SEQ-045;head;66;SINE/SINE_head.fasta;46;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-045|SINE|None_None_None|M06
+SINE;YoungSINE M;SEQ-045;tail;3;SINE/SINE_tail.fasta;44;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-045|SINE|None_None_None|M06
+SINE;YoungSINE M;SEQ-046;body;182;SINE/SINE_body.fasta;47;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-046|SINE|None_None_None|M07
+SINE;YoungSINE M;SEQ-046;head;66;SINE/SINE_head.fasta;47;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-046|SINE|None_None_None|M07
+SINE;YoungSINE M;SEQ-046;tail;3;SINE/SINE_tail.fasta;45;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-046|SINE|None_None_None|M07
+SINE;YoungSINE M;SEQ-047;body;182;SINE/SINE_body.fasta;48;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-047|SINE|None_None_None|M08
+SINE;YoungSINE M;SEQ-047;head;66;SINE/SINE_head.fasta;48;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-047|SINE|None_None_None|M08
+SINE;YoungSINE M;SEQ-047;tail;3;SINE/SINE_tail.fasta;46;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-047|SINE|None_None_None|M08
+SINE;YoungSINE M;SEQ-048;body;182;SINE/SINE_body.fasta;49;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-048|SINE|None_None_None|M09
+SINE;YoungSINE M;SEQ-048;head;66;SINE/SINE_head.fasta;49;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-048|SINE|None_None_None|M09
+SINE;YoungSINE M;SEQ-048;tail;3;SINE/SINE_tail.fasta;47;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-048|SINE|None_None_None|M09
+SINE;YoungSINE M;SEQ-049;body;182;SINE/SINE_body.fasta;50;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-049|SINE|None_None_None|M10
+SINE;YoungSINE M;SEQ-049;head;66;SINE/SINE_head.fasta;50;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-049|SINE|None_None_None|M10
+SINE;YoungSINE M;SEQ-049;tail;3;SINE/SINE_tail.fasta;48;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-049|SINE|None_None_None|M10
+SINE;YoungSINE M;SEQ-050;body;174;SINE/SINE_body.fasta;51;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-050|SINE|None_None_None|M11
+SINE;YoungSINE M;SEQ-050;head;66;SINE/SINE_head.fasta;51;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-050|SINE|None_None_None|M11
+SINE;YoungSINE M;SEQ-050;tail;2;SINE/SINE_tail.fasta;49;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-050|SINE|None_None_None|M11
+SINE;YoungSINE M;SEQ-051;body;174;SINE/SINE_body.fasta;52;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-051|SINE|None_None_None|M12
+SINE;YoungSINE M;SEQ-051;head;66;SINE/SINE_head.fasta;52;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-051|SINE|None_None_None|M12
+SINE;YoungSINE M;SEQ-051;tail;2;SINE/SINE_tail.fasta;50;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-051|SINE|None_None_None|M12
+SINE;YoungSINE S;SEQ-052;body;175;SINE/SINE_body.fasta;53;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-052|SINE|None_None_None|S01
+SINE;YoungSINE S;SEQ-052;head;66;SINE/SINE_head.fasta;53;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-052|SINE|None_None_None|S01
+SINE;YoungSINE S;SEQ-052;tail;10;SINE/SINE_tail.fasta;51;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-052|SINE|None_None_None|S01
+SINE;YoungSINE S;SEQ-053;body;184;SINE/SINE_body.fasta;54;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-053|SINE|None_None_None|S02
+SINE;YoungSINE S;SEQ-053;head;66;SINE/SINE_head.fasta;54;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-053|SINE|None_None_None|S02
+SINE;YoungSINE S;SEQ-053;tail;1;SINE/SINE_tail.fasta;52;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-053|SINE|None_None_None|S02
+SINE;YoungSINE S;SEQ-054;body;164;SINE/SINE_body.fasta;55;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-054|SINE|None_None_None|S03
+SINE;YoungSINE S;SEQ-054;head;66;SINE/SINE_head.fasta;55;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-054|SINE|None_None_None|S03
+SINE;YoungSINE S;SEQ-054;tail;21;SINE/SINE_tail.fasta;53;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-054|SINE|None_None_None|S03
+SINE;YoungSINE S;SEQ-055;body;164;SINE/SINE_body.fasta;56;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-055|SINE|None_None_None|S04
+SINE;YoungSINE S;SEQ-055;head;66;SINE/SINE_head.fasta;56;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-055|SINE|None_None_None|S04
+SINE;YoungSINE S;SEQ-055;tail;21;SINE/SINE_tail.fasta;54;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-055|SINE|None_None_None|S04
+SINE;YoungSINE S;SEQ-056;body;164;SINE/SINE_body.fasta;57;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-056|SINE|None_None_None|S05
+SINE;YoungSINE S;SEQ-056;head;66;SINE/SINE_head.fasta;57;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-056|SINE|None_None_None|S05
+SINE;YoungSINE S;SEQ-056;tail;21;SINE/SINE_tail.fasta;55;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-056|SINE|None_None_None|S05
+SINE;YoungSINE S;SEQ-057;body;164;SINE/SINE_body.fasta;58;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-057|SINE|None_None_None|S06
+SINE;YoungSINE S;SEQ-057;head;66;SINE/SINE_head.fasta;58;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-057|SINE|None_None_None|S06
+SINE;YoungSINE S;SEQ-057;tail;21;SINE/SINE_tail.fasta;56;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-057|SINE|None_None_None|S06
+SINE;YoungSINE S;SEQ-058;body;165;SINE/SINE_body.fasta;59;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-058|SINE|None_None_None|S07
+SINE;YoungSINE S;SEQ-058;head;66;SINE/SINE_head.fasta;59;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-058|SINE|None_None_None|S07
+SINE;YoungSINE S;SEQ-058;tail;20;SINE/SINE_tail.fasta;57;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-058|SINE|None_None_None|S07
+SINE;YoungSINE S;SEQ-059;body;176;SINE/SINE_body.fasta;60;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-059|SINE|None_None_None|S08
+SINE;YoungSINE S;SEQ-059;head;66;SINE/SINE_head.fasta;60;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-059|SINE|None_None_None|S08
+SINE;YoungSINE S;SEQ-059;tail;9;SINE/SINE_tail.fasta;58;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-059|SINE|None_None_None|S08
+SINE;YoungSINE S;SEQ-060;body;175;SINE/SINE_body.fasta;61;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-060|SINE|None_None_None|S09
+SINE;YoungSINE S;SEQ-060;head;66;SINE/SINE_head.fasta;61;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-060|SINE|None_None_None|S09
+SINE;YoungSINE S;SEQ-060;tail;10;SINE/SINE_tail.fasta;59;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-060|SINE|None_None_None|S09
+SINE;YoungSINE S;SEQ-061;body;182;SINE/SINE_body.fasta;62;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-061|SINE|None_None_None|S10
+SINE;YoungSINE S;SEQ-061;head;66;SINE/SINE_head.fasta;62;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-061|SINE|None_None_None|S10
+SINE;YoungSINE S;SEQ-061;tail;3;SINE/SINE_tail.fasta;60;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-061|SINE|None_None_None|S10
+SINE;YoungSINE S;SEQ-062;body;182;SINE/SINE_body.fasta;63;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-062|SINE|None_None_None|S11
+SINE;YoungSINE S;SEQ-062;head;66;SINE/SINE_head.fasta;63;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-062|SINE|None_None_None|S11
+SINE;YoungSINE S;SEQ-062;tail;3;SINE/SINE_tail.fasta;61;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-062|SINE|None_None_None|S11
+SINE;YoungSINE S;SEQ-063;body;182;SINE/SINE_body.fasta;64;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-063|SINE|None_None_None|S12
+SINE;YoungSINE S;SEQ-063;head;66;SINE/SINE_head.fasta;64;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-063|SINE|None_None_None|S12
+SINE;YoungSINE S;SEQ-063;tail;3;SINE/SINE_tail.fasta;62;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-063|SINE|None_None_None|S12
+SINE;YoungSINE S;SEQ-064;body;182;SINE/SINE_body.fasta;65;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-064|SINE|None_None_None|S13
+SINE;YoungSINE S;SEQ-064;head;66;SINE/SINE_head.fasta;65;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-064|SINE|None_None_None|S13
+SINE;YoungSINE S;SEQ-064;tail;3;SINE/SINE_tail.fasta;63;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-064|SINE|None_None_None|S13
+SINE;YoungSINE S;SEQ-065;body;182;SINE/SINE_body.fasta;66;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-065|SINE|None_None_None|S14
+SINE;YoungSINE S;SEQ-065;head;66;SINE/SINE_head.fasta;66;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-065|SINE|None_None_None|S14
+SINE;YoungSINE S;SEQ-065;tail;3;SINE/SINE_tail.fasta;64;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-065|SINE|None_None_None|S14
+SINE;YoungSINE S;SEQ-066;body;182;SINE/SINE_body.fasta;67;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-066|SINE|None_None_None|S15
+SINE;YoungSINE S;SEQ-066;head;66;SINE/SINE_head.fasta;67;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-066|SINE|None_None_None|S15
+SINE;YoungSINE S;SEQ-066;tail;3;SINE/SINE_tail.fasta;65;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-066|SINE|None_None_None|S15
+SINE;YoungSINE S;SEQ-067;body;182;SINE/SINE_body.fasta;68;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-067|SINE|None_None_None|S16
+SINE;YoungSINE S;SEQ-067;head;66;SINE/SINE_head.fasta;68;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-067|SINE|None_None_None|S16
+SINE;YoungSINE S;SEQ-067;tail;3;SINE/SINE_tail.fasta;66;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-067|SINE|None_None_None|S16
+SINE;YoungSINE S;SEQ-068;body;182;SINE/SINE_body.fasta;69;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-068|SINE|None_None_None|S17
+SINE;YoungSINE S;SEQ-068;head;66;SINE/SINE_head.fasta;69;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-068|SINE|None_None_None|S17
+SINE;YoungSINE S;SEQ-068;tail;3;SINE/SINE_tail.fasta;67;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-068|SINE|None_None_None|S17
+SINE;YoungSINE S;SEQ-069;body;182;SINE/SINE_body.fasta;70;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-069|SINE|None_None_None|S18
+SINE;YoungSINE S;SEQ-069;head;66;SINE/SINE_head.fasta;70;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-069|SINE|None_None_None|S18
+SINE;YoungSINE S;SEQ-069;tail;3;SINE/SINE_tail.fasta;68;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-069|SINE|None_None_None|S18
+SINE;YoungSINE S;SEQ-070;body;182;SINE/SINE_body.fasta;71;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-070|SINE|None_None_None|S19
+SINE;YoungSINE S;SEQ-070;head;66;SINE/SINE_head.fasta;71;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-070|SINE|None_None_None|S19
+SINE;YoungSINE S;SEQ-070;tail;3;SINE/SINE_tail.fasta;69;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-070|SINE|None_None_None|S19
+SINE;YoungSINE S;SEQ-071;body;182;SINE/SINE_body.fasta;72;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-071|SINE|None_None_None|S20
+SINE;YoungSINE S;SEQ-071;head;66;SINE/SINE_head.fasta;72;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-071|SINE|None_None_None|S20
+SINE;YoungSINE S;SEQ-071;tail;3;SINE/SINE_tail.fasta;70;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-071|SINE|None_None_None|S20
+SINE;YoungSINE S;SEQ-072;body;182;SINE/SINE_body.fasta;73;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-072|SINE|None_None_None|S21
+SINE;YoungSINE S;SEQ-072;head;66;SINE/SINE_head.fasta;73;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-072|SINE|None_None_None|S21
+SINE;YoungSINE S;SEQ-072;tail;3;SINE/SINE_tail.fasta;71;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-072|SINE|None_None_None|S21
+SINE;YoungSINE S;SEQ-073;body;182;SINE/SINE_body.fasta;74;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-073|SINE|None_None_None|S22
+SINE;YoungSINE S;SEQ-073;head;66;SINE/SINE_head.fasta;74;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-073|SINE|None_None_None|S22
+SINE;YoungSINE S;SEQ-073;tail;3;SINE/SINE_tail.fasta;72;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-073|SINE|None_None_None|S22
+SINE;YoungSINE S;SEQ-074;body;182;SINE/SINE_body.fasta;75;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-074|SINE|None_None_None|S23
+SINE;YoungSINE S;SEQ-074;head;66;SINE/SINE_head.fasta;75;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-074|SINE|None_None_None|S23
+SINE;YoungSINE S;SEQ-074;tail;3;SINE/SINE_tail.fasta;73;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-074|SINE|None_None_None|S23
+SINE;YoungSINE S;SEQ-075;nao_separadas;251;SINE/SINE_nao_separadas.fasta;6;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-075|SINE|None_None_None|S24
+SINE;YoungSINE S;SEQ-076;body;182;SINE/SINE_body.fasta;76;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-076|SINE|None_None_None|S25
+SINE;YoungSINE S;SEQ-076;head;66;SINE/SINE_head.fasta;76;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-076|SINE|None_None_None|S25
+SINE;YoungSINE S;SEQ-076;tail;3;SINE/SINE_tail.fasta;74;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-076|SINE|None_None_None|S25
+SINE;YoungSINE S;SEQ-077;body;182;SINE/SINE_body.fasta;77;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-077|SINE|None_None_None|S26
+SINE;YoungSINE S;SEQ-077;head;66;SINE/SINE_head.fasta;77;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-077|SINE|None_None_None|S26
+SINE;YoungSINE S;SEQ-077;tail;3;SINE/SINE_tail.fasta;75;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-077|SINE|None_None_None|S26
+SINE;YoungSINE S;SEQ-078;body;182;SINE/SINE_body.fasta;78;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-078|SINE|None_None_None|S27
+SINE;YoungSINE S;SEQ-078;head;66;SINE/SINE_head.fasta;78;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-078|SINE|None_None_None|S27
+SINE;YoungSINE S;SEQ-078;tail;3;SINE/SINE_tail.fasta;76;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-078|SINE|None_None_None|S27
+SINE;YoungSINE S;SEQ-079;body;182;SINE/SINE_body.fasta;79;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-079|SINE|None_None_None|S28
+SINE;YoungSINE S;SEQ-079;head;66;SINE/SINE_head.fasta;79;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-079|SINE|None_None_None|S28
+SINE;YoungSINE S;SEQ-079;tail;3;SINE/SINE_tail.fasta;77;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-079|SINE|None_None_None|S28
+SINE;YoungSINE S;SEQ-080;body;182;SINE/SINE_body.fasta;80;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-080|SINE|None_None_None|S29
+SINE;YoungSINE S;SEQ-080;head;66;SINE/SINE_head.fasta;80;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-080|SINE|None_None_None|S29
+SINE;YoungSINE S;SEQ-080;tail;3;SINE/SINE_tail.fasta;78;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-080|SINE|None_None_None|S29
+SINE;YoungSINE S;SEQ-081;nao_separadas;251;SINE/SINE_nao_separadas.fasta;7;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-081|SINE|None_None_None|S30
+SINE;YoungSINE S;SEQ-082;body;182;SINE/SINE_body.fasta;81;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-082|SINE|None_None_None|S31
+SINE;YoungSINE S;SEQ-082;head;66;SINE/SINE_head.fasta;81;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-082|SINE|None_None_None|S31
+SINE;YoungSINE S;SEQ-082;tail;3;SINE/SINE_tail.fasta;79;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-082|SINE|None_None_None|S31
+SINE;YoungSINE S;SEQ-083;body;182;SINE/SINE_body.fasta;82;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-083|SINE|None_None_None|S32
+SINE;YoungSINE S;SEQ-083;head;66;SINE/SINE_head.fasta;82;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-083|SINE|None_None_None|S32
+SINE;YoungSINE S;SEQ-083;tail;3;SINE/SINE_tail.fasta;80;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-083|SINE|None_None_None|S32
+SINE;YoungSINE S;SEQ-084;nao_separadas;251;SINE/SINE_nao_separadas.fasta;8;dados/FASTA/SINE/SINE_nao_separadas.fasta;Anterior;SEQ-084|SINE|None_None_None|S33
+SINE;YoungSINE S;SEQ-085;body;182;SINE/SINE_body.fasta;83;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-085|SINE|None_None_None|S34
+SINE;YoungSINE S;SEQ-085;head;66;SINE/SINE_head.fasta;83;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-085|SINE|None_None_None|S34
+SINE;YoungSINE S;SEQ-085;tail;3;SINE/SINE_tail.fasta;81;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-085|SINE|None_None_None|S34
+SINE;YoungSINE S;SEQ-086;body;182;SINE/SINE_body.fasta;84;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-086|SINE|None_None_None|S35
+SINE;YoungSINE S;SEQ-086;head;66;SINE/SINE_head.fasta;84;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-086|SINE|None_None_None|S35
+SINE;YoungSINE S;SEQ-086;tail;3;SINE/SINE_tail.fasta;82;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-086|SINE|None_None_None|S35
+SINE;YoungSINE S;SEQ-087;body;182;SINE/SINE_body.fasta;85;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-087|SINE|None_None_None|S36
+SINE;YoungSINE S;SEQ-087;head;66;SINE/SINE_head.fasta;85;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-087|SINE|None_None_None|S36
+SINE;YoungSINE S;SEQ-087;tail;3;SINE/SINE_tail.fasta;83;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-087|SINE|None_None_None|S36
+SINE;YoungSINE S;SEQ-088;body;182;SINE/SINE_body.fasta;86;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-088|SINE|None_None_None|S37
+SINE;YoungSINE S;SEQ-088;head;66;SINE/SINE_head.fasta;86;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-088|SINE|None_None_None|S37
+SINE;YoungSINE S;SEQ-088;tail;3;SINE/SINE_tail.fasta;84;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-088|SINE|None_None_None|S37
+SINE;YoungSINE S;SEQ-089;body;182;SINE/SINE_body.fasta;87;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-089|SINE|None_None_None|S38
+SINE;YoungSINE S;SEQ-089;head;66;SINE/SINE_head.fasta;87;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-089|SINE|None_None_None|S38
+SINE;YoungSINE S;SEQ-089;tail;3;SINE/SINE_tail.fasta;85;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-089|SINE|None_None_None|S38
+SINE;YoungSINE S;SEQ-090;body;182;SINE/SINE_body.fasta;88;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-090|SINE|None_None_None|S39
+SINE;YoungSINE S;SEQ-090;head;66;SINE/SINE_head.fasta;88;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-090|SINE|None_None_None|S39
+SINE;YoungSINE S;SEQ-090;tail;3;SINE/SINE_tail.fasta;86;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-090|SINE|None_None_None|S39
+SINE;YoungSINE S;SEQ-091;body;182;SINE/SINE_body.fasta;89;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-091|SINE|None_None_None|S40
+SINE;YoungSINE S;SEQ-091;head;66;SINE/SINE_head.fasta;89;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-091|SINE|None_None_None|S40
+SINE;YoungSINE S;SEQ-091;tail;3;SINE/SINE_tail.fasta;87;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-091|SINE|None_None_None|S40
+SINE;YoungSINE S;SEQ-092;body;182;SINE/SINE_body.fasta;90;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-092|SINE|None_None_None|S41
+SINE;YoungSINE S;SEQ-092;head;66;SINE/SINE_head.fasta;90;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-092|SINE|None_None_None|S41
+SINE;YoungSINE S;SEQ-092;tail;3;SINE/SINE_tail.fasta;88;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-092|SINE|None_None_None|S41
+SINE;YoungSINE S;SEQ-093;body;182;SINE/SINE_body.fasta;91;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-093|SINE|None_None_None|S42
+SINE;YoungSINE S;SEQ-093;head;66;SINE/SINE_head.fasta;91;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-093|SINE|None_None_None|S42
+SINE;YoungSINE S;SEQ-093;tail;3;SINE/SINE_tail.fasta;89;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-093|SINE|None_None_None|S42
+SINE;YoungSINE S;SEQ-094;body;182;SINE/SINE_body.fasta;92;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-094|SINE|None_None_None|S43
+SINE;YoungSINE S;SEQ-094;head;66;SINE/SINE_head.fasta;92;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-094|SINE|None_None_None|S43
+SINE;YoungSINE S;SEQ-094;tail;3;SINE/SINE_tail.fasta;90;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-094|SINE|None_None_None|S43
+SINE;YoungSINE S;SEQ-095;body;182;SINE/SINE_body.fasta;93;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-095|SINE|None_None_None|S44
+SINE;YoungSINE S;SEQ-095;head;66;SINE/SINE_head.fasta;93;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-095|SINE|None_None_None|S44
+SINE;YoungSINE S;SEQ-095;tail;3;SINE/SINE_tail.fasta;91;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-095|SINE|None_None_None|S44
+SINE;YoungSINE S;SEQ-096;body;182;SINE/SINE_body.fasta;94;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-096|SINE|None_None_None|S45
+SINE;YoungSINE S;SEQ-096;head;66;SINE/SINE_head.fasta;94;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-096|SINE|None_None_None|S45
+SINE;YoungSINE S;SEQ-096;tail;3;SINE/SINE_tail.fasta;92;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-096|SINE|None_None_None|S45
+SINE;YoungSINE S;SEQ-097;body;182;SINE/SINE_body.fasta;95;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-097|SINE|None_None_None|S46
+SINE;YoungSINE S;SEQ-097;head;66;SINE/SINE_head.fasta;95;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-097|SINE|None_None_None|S46
+SINE;YoungSINE S;SEQ-097;tail;3;SINE/SINE_tail.fasta;93;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-097|SINE|None_None_None|S46
+SINE;YoungSINE S;SEQ-098;body;182;SINE/SINE_body.fasta;96;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-098|SINE|None_None_None|S47
+SINE;YoungSINE S;SEQ-098;head;66;SINE/SINE_head.fasta;96;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-098|SINE|None_None_None|S47
+SINE;YoungSINE S;SEQ-098;tail;3;SINE/SINE_tail.fasta;94;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-098|SINE|None_None_None|S47
+SINE;YoungSINE S;SEQ-099;body;182;SINE/SINE_body.fasta;97;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-099|SINE|None_None_None|S48
+SINE;YoungSINE S;SEQ-099;head;66;SINE/SINE_head.fasta;97;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-099|SINE|None_None_None|S48
+SINE;YoungSINE S;SEQ-099;tail;3;SINE/SINE_tail.fasta;95;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-099|SINE|None_None_None|S48
+SINE;YoungSINE S;SEQ-100;body;182;SINE/SINE_body.fasta;98;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-100|SINE|None_None_None|S49
+SINE;YoungSINE S;SEQ-100;head;66;SINE/SINE_head.fasta;98;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-100|SINE|None_None_None|S49
+SINE;YoungSINE S;SEQ-100;tail;3;SINE/SINE_tail.fasta;96;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-100|SINE|None_None_None|S49
+SINE;YoungSINE S;SEQ-101;body;182;SINE/SINE_body.fasta;99;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-101|SINE|None_None_None|S50
+SINE;YoungSINE S;SEQ-101;head;66;SINE/SINE_head.fasta;99;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-101|SINE|None_None_None|S50
+SINE;YoungSINE S;SEQ-101;tail;3;SINE/SINE_tail.fasta;97;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-101|SINE|None_None_None|S50
+SINE;YoungSINE S;SEQ-102;body;182;SINE/SINE_body.fasta;100;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-102|SINE|None_None_None|S51
+SINE;YoungSINE S;SEQ-102;head;66;SINE/SINE_head.fasta;100;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-102|SINE|None_None_None|S51
+SINE;YoungSINE S;SEQ-102;tail;3;SINE/SINE_tail.fasta;98;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-102|SINE|None_None_None|S51
+SINE;YoungSINE S;SEQ-103;body;182;SINE/SINE_body.fasta;101;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-103|SINE|None_None_None|S52
+SINE;YoungSINE S;SEQ-103;head;66;SINE/SINE_head.fasta;101;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-103|SINE|None_None_None|S52
+SINE;YoungSINE S;SEQ-103;tail;3;SINE/SINE_tail.fasta;99;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-103|SINE|None_None_None|S52
+SINE;YoungSINE S;SEQ-104;body;182;SINE/SINE_body.fasta;102;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-104|SINE|None_None_None|S53
+SINE;YoungSINE S;SEQ-104;head;66;SINE/SINE_head.fasta;102;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-104|SINE|None_None_None|S53
+SINE;YoungSINE S;SEQ-104;tail;3;SINE/SINE_tail.fasta;100;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-104|SINE|None_None_None|S53
+SINE;YoungSINE S;SEQ-105;body;182;SINE/SINE_body.fasta;103;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-105|SINE|None_None_None|S54
+SINE;YoungSINE S;SEQ-105;head;66;SINE/SINE_head.fasta;103;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-105|SINE|None_None_None|S54
+SINE;YoungSINE S;SEQ-105;tail;3;SINE/SINE_tail.fasta;101;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-105|SINE|None_None_None|S54
+SINE;YoungSINE S;SEQ-106;body;174;SINE/SINE_body.fasta;104;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-106|SINE|None_None_None|S55
+SINE;YoungSINE S;SEQ-106;head;66;SINE/SINE_head.fasta;104;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-106|SINE|None_None_None|S55
+SINE;YoungSINE S;SEQ-106;tail;11;SINE/SINE_tail.fasta;102;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-106|SINE|None_None_None|S55
+SINE;YoungSINE S;SEQ-107;body;182;SINE/SINE_body.fasta;105;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-107|SINE|None_None_None|S56
+SINE;YoungSINE S;SEQ-107;head;66;SINE/SINE_head.fasta;105;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-107|SINE|None_None_None|S56
+SINE;YoungSINE S;SEQ-107;tail;3;SINE/SINE_tail.fasta;103;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-107|SINE|None_None_None|S56
+SINE;YoungSINE S;SEQ-108;body;174;SINE/SINE_body.fasta;106;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-108|SINE|None_None_None|S57
+SINE;YoungSINE S;SEQ-108;head;66;SINE/SINE_head.fasta;106;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-108|SINE|None_None_None|S57
+SINE;YoungSINE S;SEQ-108;tail;11;SINE/SINE_tail.fasta;104;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-108|SINE|None_None_None|S57
+SINE;YoungSINE S;SEQ-109;body;182;SINE/SINE_body.fasta;107;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-109|SINE|None_None_None|S58
+SINE;YoungSINE S;SEQ-109;head;66;SINE/SINE_head.fasta;107;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-109|SINE|None_None_None|S58
+SINE;YoungSINE S;SEQ-109;tail;3;SINE/SINE_tail.fasta;105;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-109|SINE|None_None_None|S58
+SINE;YoungSINE S;SEQ-110;body;182;SINE/SINE_body.fasta;108;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-110|SINE|None_None_None|S59
+SINE;YoungSINE S;SEQ-110;head;66;SINE/SINE_head.fasta;108;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-110|SINE|None_None_None|S59
+SINE;YoungSINE S;SEQ-110;tail;3;SINE/SINE_tail.fasta;106;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-110|SINE|None_None_None|S59
+SINE;YoungSINE S;SEQ-111;body;181;SINE/SINE_body.fasta;109;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-111|SINE|None_None_None|S60
+SINE;YoungSINE S;SEQ-111;head;66;SINE/SINE_head.fasta;109;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-111|SINE|None_None_None|S60
+SINE;YoungSINE S;SEQ-111;tail;4;SINE/SINE_tail.fasta;107;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-111|SINE|None_None_None|S60
+SINE;YoungSINE S;SEQ-112;body;182;SINE/SINE_body.fasta;110;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-112|SINE|None_None_None|S61
+SINE;YoungSINE S;SEQ-112;head;66;SINE/SINE_head.fasta;110;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-112|SINE|None_None_None|S61
+SINE;YoungSINE S;SEQ-112;tail;3;SINE/SINE_tail.fasta;108;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-112|SINE|None_None_None|S61
+SINE;YoungSINE consenso;SEQ-022;body;182;SINE/SINE_body.fasta;24;dados/FASTA/SINE/SINE_body.fasta;Anterior;SEQ-022|SINE|None_None_None|Consensus
+SINE;YoungSINE consenso;SEQ-022;head;66;SINE/SINE_head.fasta;24;dados/FASTA/SINE/SINE_head.fasta;Anterior;SEQ-022|SINE|None_None_None|Consensus
+SINE;YoungSINE consenso;SEQ-022;tail;13;SINE/SINE_tail.fasta;22;dados/FASTA/SINE/SINE_tail.fasta;Anterior;SEQ-022|SINE|None_None_None|Consensus

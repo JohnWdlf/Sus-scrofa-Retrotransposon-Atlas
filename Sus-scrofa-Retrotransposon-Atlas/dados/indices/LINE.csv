@@ -1,0 +1,543 @@
+﻿Classe;Subtipo;ID de origem;Região;Tamanho (nt);Arquivo;Número no arquivo;Caminho no repositório;Origem;Cabeçalho de entrada
+LINE;L1A;L1A1;3UTR;1915;LINE/LINE_3UTR.fasta;1;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1A1#LINE/L1A
+LINE;L1A;L1A1;3UTR;187;LINE/LINE_3UTR.fasta;50;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A1#LINE/L1A|part=3UTR|start=5729|end=5915|len=187|active_count=None
+LINE;L1A;L1A1;5UTR;1051;LINE/LINE_5UTR.fasta;1;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1A1#LINE/L1A
+LINE;L1A;L1A1;5UTR;941;LINE/LINE_5UTR.fasta;50;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A1#LINE/L1A|part=5UTR|start=1|end=941|len=941|active_count=None
+LINE;L1A;L1A1;ORF1;795;LINE/LINE_ORF1.fasta;1;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1A1#LINE/L1A
+LINE;L1A;L1A1;ORF1;905;LINE/LINE_ORF1.fasta;50;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A1#LINE/L1A|part=ORF1|start=942|end=1846|len=905|active_count=None
+LINE;L1A;L1A1;ORF2;1350;LINE/LINE_ORF2.fasta;1;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1A1#LINE/L1A
+LINE;L1A;L1A1;ORF2;3814;LINE/LINE_ORF2.fasta;43;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A1#LINE/L1A|part=ORF2|start=1915|end=5728|len=3814|active_count=None
+LINE;L1A;L1A1;completas_fornecidas;5937;LINE/LINE_completas_fornecidas.fasta;1;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A1#LINE/L1A
+LINE;L1A;L1A1;intergenica;826;LINE/LINE_intergenica.fasta;1;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1A1#LINE/L1A
+LINE;L1A;L1A1;intergenica;68;LINE/LINE_intergenica.fasta;41;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A1#LINE/L1A|part=IGR|start=1847|end=1914|len=68|active_count=None
+LINE;L1A;L1A1;tail;22;LINE/LINE_tail.fasta;1;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A1#LINE/L1A|part=TAIL|start=5916|end=5937|len=22|active_count=None
+LINE;L1A;L1A2;3UTR;872;LINE/LINE_3UTR.fasta;2;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1A2#LINE/L1A
+LINE;L1A;L1A2;3UTR;183;LINE/LINE_3UTR.fasta;51;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A2#LINE/L1A|part=3UTR|start=5636|end=5818|len=183|active_count=None
+LINE;L1A;L1A2;5UTR;2362;LINE/LINE_5UTR.fasta;2;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1A2#LINE/L1A
+LINE;L1A;L1A2;5UTR;939;LINE/LINE_5UTR.fasta;52;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A2#LINE/L1A|part=5UTR|start=1|end=939|len=939|active_count=None
+LINE;L1A;L1A2;ORF1;1350;LINE/LINE_ORF1.fasta;2;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1A2#LINE/L1A
+LINE;L1A;L1A2;ORF1;904;LINE/LINE_ORF1.fasta;52;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A2#LINE/L1A|part=ORF1|start=940|end=1843|len=904|active_count=None
+LINE;L1A;L1A2;ORF2;750;LINE/LINE_ORF2.fasta;2;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1A2#LINE/L1A
+LINE;L1A;L1A2;ORF2;3725;LINE/LINE_ORF2.fasta;44;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A2#LINE/L1A|part=ORF2|start=1911|end=5635|len=3725|active_count=None
+LINE;L1A;L1A2;completas_fornecidas;5837;LINE/LINE_completas_fornecidas.fasta;3;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A2#LINE/L1A
+LINE;L1A;L1A2;intergenica;503;LINE/LINE_intergenica.fasta;2;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1A2#LINE/L1A
+LINE;L1A;L1A2;intergenica;67;LINE/LINE_intergenica.fasta;42;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A2#LINE/L1A|part=IGR|start=1844|end=1910|len=67|active_count=None
+LINE;L1A;L1A2;tail;19;LINE/LINE_tail.fasta;3;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A2#LINE/L1A|part=TAIL|start=5819|end=5837|len=19|active_count=None
+LINE;L1A;L1A3;3UTR;794;LINE/LINE_3UTR.fasta;3;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1A3#LINE/L1A
+LINE;L1A;L1A3;3UTR;186;LINE/LINE_3UTR.fasta;52;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A3#LINE/L1A|part=3UTR|start=6037|end=6222|len=186|active_count=None
+LINE;L1A;L1A3;5UTR;3082;LINE/LINE_5UTR.fasta;3;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1A3#LINE/L1A
+LINE;L1A;L1A3;5UTR;932;LINE/LINE_5UTR.fasta;53;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A3#LINE/L1A|part=5UTR|start=1|end=932|len=932|active_count=None
+LINE;L1A;L1A3;ORF1;1083;LINE/LINE_ORF1.fasta;3;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1A3#LINE/L1A
+LINE;L1A;L1A3;ORF1;902;LINE/LINE_ORF1.fasta;53;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A3#LINE/L1A|part=ORF1|start=933|end=1834|len=902|active_count=None
+LINE;L1A;L1A3;ORF2;834;LINE/LINE_ORF2.fasta;3;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1A3#LINE/L1A
+LINE;L1A;L1A3;ORF2;3810;LINE/LINE_ORF2.fasta;45;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A3#LINE/L1A|part=ORF2|start=2227|end=6036|len=3810|active_count=None
+LINE;L1A;L1A3;completas_fornecidas;6240;LINE/LINE_completas_fornecidas.fasta;4;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A3#LINE/L1A
+LINE;L1A;L1A3;intergenica;447;LINE/LINE_intergenica.fasta;3;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1A3#LINE/L1A
+LINE;L1A;L1A3;intergenica;392;LINE/LINE_intergenica.fasta;43;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A3#LINE/L1A|part=IGR|start=1835|end=2226|len=392|active_count=None
+LINE;L1A;L1A3;tail;18;LINE/LINE_tail.fasta;4;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A3#LINE/L1A|part=TAIL|start=6223|end=6240|len=18|active_count=None
+LINE;L1A;L1A4;3UTR;1018;LINE/LINE_3UTR.fasta;4;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1A4#LINE/L1A
+LINE;L1A;L1A4;3UTR;235;LINE/LINE_3UTR.fasta;53;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A4#LINE/L1A|part=3UTR|start=5902|end=6136|len=235|active_count=None
+LINE;L1A;L1A4;5UTR;4399;LINE/LINE_5UTR.fasta;4;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1A4#LINE/L1A
+LINE;L1A;L1A4;5UTR;941;LINE/LINE_5UTR.fasta;54;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A4#LINE/L1A|part=5UTR|start=1|end=941|len=941|active_count=None
+LINE;L1A;L1A4;ORF1;753;LINE/LINE_ORF1.fasta;4;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1A4#LINE/L1A
+LINE;L1A;L1A4;ORF1;904;LINE/LINE_ORF1.fasta;54;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A4#LINE/L1A|part=ORF1|start=942|end=1845|len=904|active_count=None
+LINE;L1A;L1A4;ORF2;3663;LINE/LINE_ORF2.fasta;46;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A4#LINE/L1A|part=ORF2|start=2239|end=5901|len=3663|active_count=None
+LINE;L1A;L1A4;completas_fornecidas;6170;LINE/LINE_completas_fornecidas.fasta;5;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A4#LINE/L1A
+LINE;L1A;L1A4;intergenica;393;LINE/LINE_intergenica.fasta;44;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A4#LINE/L1A|part=IGR|start=1846|end=2238|len=393|active_count=None
+LINE;L1A;L1A4;tail;34;LINE/LINE_tail.fasta;5;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A4#LINE/L1A|part=TAIL|start=6137|end=6170|len=34|active_count=None
+LINE;L1A;L1A5;3UTR;180;LINE/LINE_3UTR.fasta;54;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A5#LINE/L1A|part=3UTR|start=5881|end=6060|len=180|active_count=None
+LINE;L1A;L1A5;5UTR;931;LINE/LINE_5UTR.fasta;55;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A5#LINE/L1A|part=5UTR|start=1|end=931|len=931|active_count=None
+LINE;L1A;L1A5;ORF1;901;LINE/LINE_ORF1.fasta;55;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A5#LINE/L1A|part=ORF1|start=932|end=1832|len=901|active_count=None
+LINE;L1A;L1A5;ORF2;3655;LINE/LINE_ORF2.fasta;47;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A5#LINE/L1A|part=ORF2|start=2226|end=5880|len=3655|active_count=None
+LINE;L1A;L1A5;intergenica;393;LINE/LINE_intergenica.fasta;45;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A5#LINE/L1A|part=IGR|start=1833|end=2225|len=393|active_count=None
+LINE;L1A;L1A5;nao_separadas;6073;LINE/LINE_nao_separadas.fasta;2;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1A5#LINE/L1A
+LINE;L1A;L1A5;tail;13;LINE/LINE_tail.fasta;6;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A5#LINE/L1A|part=TAIL|start=6061|end=6073|len=13|active_count=None
+LINE;L1A;L1A6;5UTR;944;LINE/LINE_5UTR.fasta;51;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A6#LINE/L1A RepbaseID:HAL1_SSc|part=5UTR|start=1|end=944|len=944|active_count=None
+LINE;L1A;L1A6;ORF1;906;LINE/LINE_ORF1.fasta;51;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A6#LINE/L1A RepbaseID:HAL1_SSc|part=ORF1|start=945|end=1850|len=906|active_count=None
+LINE;L1A;L1A6;completas_fornecidas;3016;LINE/LINE_completas_fornecidas.fasta;2;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A6#LINE/L1A RepbaseID:HAL1_SSc
+LINE;L1A;L1A6;nao_separadas;3016;LINE/LINE_nao_separadas.fasta;1;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1A6#LINE/L1A
+LINE;L1A;L1A6;tail;1166;LINE/LINE_tail.fasta;2;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A6#LINE/L1A RepbaseID:HAL1_SSc|part=TAIL|start=1851|end=3016|len=1166|active_count=None
+LINE;L1A;L1A7;3UTR;324;LINE/LINE_3UTR.fasta;5;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1A7#LINE/L1A
+LINE;L1A;L1A7;3UTR;305;LINE/LINE_3UTR.fasta;55;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=3UTR|start=7081|end=7385|len=305|active_count=None
+LINE;L1A;L1A7;5UTR;3252;LINE/LINE_5UTR.fasta;5;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1A7#LINE/L1A
+LINE;L1A;L1A7;5UTR;1959;LINE/LINE_5UTR.fasta;56;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=5UTR|start=1|end=1959|len=1959|active_count=None
+LINE;L1A;L1A7;ORF1;1395;LINE/LINE_ORF1.fasta;5;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1A7#LINE/L1A
+LINE;L1A;L1A7;ORF1;897;LINE/LINE_ORF1.fasta;56;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=ORF1|start=1960|end=2856|len=897|active_count=None
+LINE;L1A;L1A7;ORF2;2217;LINE/LINE_ORF2.fasta;4;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1A7#LINE/L1A
+LINE;L1A;L1A7;ORF2;3828;LINE/LINE_ORF2.fasta;48;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=ORF2|start=3253|end=7080|len=3828|active_count=None
+LINE;L1A;L1A7;completas_fornecidas;7404;LINE/LINE_completas_fornecidas.fasta;6;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc
+LINE;L1A;L1A7;intergenica;216;LINE/LINE_intergenica.fasta;4;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1A7#LINE/L1A
+LINE;L1A;L1A7;intergenica;396;LINE/LINE_intergenica.fasta;46;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=IGR|start=2857|end=3252|len=396|active_count=None
+LINE;L1A;L1A7;tail;19;LINE/LINE_tail.fasta;7;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1A7#LINE/L1A RepbaseID:L1_3_SSc|part=TAIL|start=7386|end=7404|len=19|active_count=None
+LINE;L1B;L1B1;3UTR;381;LINE/LINE_3UTR.fasta;7;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B1#LINE/L1B
+LINE;L1B;L1B1;3UTR;268;LINE/LINE_3UTR.fasta;56;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=3UTR|start=7097|end=7364|len=268|active_count=None
+LINE;L1B;L1B1;5UTR;3288;LINE/LINE_5UTR.fasta;7;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B1#LINE/L1B
+LINE;L1B;L1B1;5UTR;2005;LINE/LINE_5UTR.fasta;57;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=5UTR|start=1|end=2005|len=2005|active_count=None
+LINE;L1B;L1B1;ORF1;657;LINE/LINE_ORF1.fasta;7;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B1#LINE/L1B
+LINE;L1B;L1B1;ORF1;891;LINE/LINE_ORF1.fasta;57;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=ORF1|start=2006|end=2896|len=891|active_count=None
+LINE;L1B;L1B1;ORF2;1980;LINE/LINE_ORF2.fasta;5;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1B1#LINE/L1B
+LINE;L1B;L1B1;ORF2;3808;LINE/LINE_ORF2.fasta;49;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=ORF2|start=3289|end=7096|len=3808|active_count=None
+LINE;L1B;L1B1;completas_fornecidas;7419;LINE/LINE_completas_fornecidas.fasta;7;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS
+LINE;L1B;L1B1;intergenica;1113;LINE/LINE_intergenica.fasta;5;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1B1#LINE/L1B
+LINE;L1B;L1B1;intergenica;392;LINE/LINE_intergenica.fasta;47;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=IGR|start=2897|end=3288|len=392|active_count=None
+LINE;L1B;L1B1;tail;55;LINE/LINE_tail.fasta;8;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B1#LINE/L1B RepbaseID:L1B-SS|part=TAIL|start=7365|end=7419|len=55|active_count=None
+LINE;L1B;L1B10;3UTR;272;LINE/LINE_3UTR.fasta;65;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B10#LINE/L1B|part=3UTR|start=6281|end=6552|len=272|active_count=None
+LINE;L1B;L1B10;5UTR;1214;LINE/LINE_5UTR.fasta;66;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B10#LINE/L1B|part=5UTR|start=1|end=1214|len=1214|active_count=None
+LINE;L1B;L1B10;ORF1;878;LINE/LINE_ORF1.fasta;66;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B10#LINE/L1B|part=ORF1|start=1215|end=2092|len=878|active_count=None
+LINE;L1B;L1B10;ORF2;3766;LINE/LINE_ORF2.fasta;58;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B10#LINE/L1B|part=ORF2|start=2515|end=6280|len=3766|active_count=None
+LINE;L1B;L1B10;intergenica;422;LINE/LINE_intergenica.fasta;56;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B10#LINE/L1B|part=IGR|start=2093|end=2514|len=422|active_count=None
+LINE;L1B;L1B10;nao_separadas;6597;LINE/LINE_nao_separadas.fasta;3;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1B10#LINE/L1B
+LINE;L1B;L1B10;tail;45;LINE/LINE_tail.fasta;17;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B10#LINE/L1B|part=TAIL|start=6553|end=6597|len=45|active_count=None
+LINE;L1B;L1B11;3UTR;330;LINE/LINE_3UTR.fasta;6;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B11#LINE/L1B
+LINE;L1B;L1B11;3UTR;267;LINE/LINE_3UTR.fasta;66;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B11#LINE/L1B|part=3UTR|start=5646|end=5912|len=267|active_count=None
+LINE;L1B;L1B11;5UTR;5030;LINE/LINE_5UTR.fasta;6;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B11#LINE/L1B
+LINE;L1B;L1B11;5UTR;551;LINE/LINE_5UTR.fasta;67;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B11#LINE/L1B|part=5UTR|start=1|end=551|len=551|active_count=None
+LINE;L1B;L1B11;ORF1;615;LINE/LINE_ORF1.fasta;6;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B11#LINE/L1B
+LINE;L1B;L1B11;ORF1;894;LINE/LINE_ORF1.fasta;67;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B11#LINE/L1B|part=ORF1|start=552|end=1445|len=894|active_count=None
+LINE;L1B;L1B11;ORF2;3795;LINE/LINE_ORF2.fasta;59;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B11#LINE/L1B|part=ORF2|start=1851|end=5645|len=3795|active_count=None
+LINE;L1B;L1B11;completas_fornecidas;5975;LINE/LINE_completas_fornecidas.fasta;13;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B11#LINE/L1B
+LINE;L1B;L1B11;intergenica;405;LINE/LINE_intergenica.fasta;57;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B11#LINE/L1B|part=IGR|start=1446|end=1850|len=405|active_count=None
+LINE;L1B;L1B11;tail;63;LINE/LINE_tail.fasta;18;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B11#LINE/L1B|part=TAIL|start=5913|end=5975|len=63|active_count=None
+LINE;L1B;L1B12;3UTR;217;LINE/LINE_3UTR.fasta;67;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B12#LINE/L1B|part=3UTR|start=6322|end=6538|len=217|active_count=None
+LINE;L1B;L1B12;5UTR;1203;LINE/LINE_5UTR.fasta;68;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B12#LINE/L1B|part=5UTR|start=1|end=1203|len=1203|active_count=None
+LINE;L1B;L1B12;ORF1;887;LINE/LINE_ORF1.fasta;68;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B12#LINE/L1B|part=ORF1|start=1204|end=2090|len=887|active_count=None
+LINE;L1B;L1B12;ORF2;3798;LINE/LINE_ORF2.fasta;60;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B12#LINE/L1B|part=ORF2|start=2524|end=6321|len=3798|active_count=None
+LINE;L1B;L1B12;intergenica;433;LINE/LINE_intergenica.fasta;58;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B12#LINE/L1B|part=IGR|start=2091|end=2523|len=433|active_count=None
+LINE;L1B;L1B12;nao_separadas;6545;LINE/LINE_nao_separadas.fasta;4;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1B12#LINE/L1B
+LINE;L1B;L1B12;tail;7;LINE/LINE_tail.fasta;19;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B12#LINE/L1B|part=TAIL|start=6539|end=6545|len=7|active_count=None
+LINE;L1B;L1B2;3UTR;6494;LINE/LINE_3UTR.fasta;8;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B2#LINE/L1B
+LINE;L1B;L1B2;3UTR;267;LINE/LINE_3UTR.fasta;57;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B2#LINE/L1B|part=3UTR|start=7420|end=7686|len=267|active_count=None
+LINE;L1B;L1B2;5UTR;526;LINE/LINE_5UTR.fasta;8;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B2#LINE/L1B
+LINE;L1B;L1B2;5UTR;2335;LINE/LINE_5UTR.fasta;58;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B2#LINE/L1B|part=5UTR|start=1|end=2335|len=2335|active_count=None
+LINE;L1B;L1B2;ORF1;720;LINE/LINE_ORF1.fasta;8;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B2#LINE/L1B
+LINE;L1B;L1B2;ORF1;889;LINE/LINE_ORF1.fasta;58;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B2#LINE/L1B|part=ORF1|start=2336|end=3224|len=889|active_count=None
+LINE;L1B;L1B2;ORF2;3805;LINE/LINE_ORF2.fasta;50;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B2#LINE/L1B|part=ORF2|start=3615|end=7419|len=3805|active_count=None
+LINE;L1B;L1B2;completas_fornecidas;7740;LINE/LINE_completas_fornecidas.fasta;8;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B2#LINE/L1B
+LINE;L1B;L1B2;intergenica;390;LINE/LINE_intergenica.fasta;48;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B2#LINE/L1B|part=IGR|start=3225|end=3614|len=390|active_count=None
+LINE;L1B;L1B2;tail;54;LINE/LINE_tail.fasta;9;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B2#LINE/L1B|part=TAIL|start=7687|end=7740|len=54|active_count=None
+LINE;L1B;L1B3;3UTR;914;LINE/LINE_3UTR.fasta;9;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B3#LINE/L1B
+LINE;L1B;L1B3;3UTR;269;LINE/LINE_3UTR.fasta;58;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B3#LINE/L1B|part=3UTR|start=7121|end=7389|len=269|active_count=None
+LINE;L1B;L1B3;5UTR;5742;LINE/LINE_5UTR.fasta;9;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B3#LINE/L1B
+LINE;L1B;L1B3;5UTR;2041;LINE/LINE_5UTR.fasta;59;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B3#LINE/L1B|part=5UTR|start=1|end=2041|len=2041|active_count=None
+LINE;L1B;L1B3;ORF1;786;LINE/LINE_ORF1.fasta;9;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B3#LINE/L1B
+LINE;L1B;L1B3;ORF1;884;LINE/LINE_ORF1.fasta;59;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B3#LINE/L1B|part=ORF1|start=2042|end=2925|len=884|active_count=None
+LINE;L1B;L1B3;ORF2;3805;LINE/LINE_ORF2.fasta;51;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B3#LINE/L1B|part=ORF2|start=3316|end=7120|len=3805|active_count=None
+LINE;L1B;L1B3;completas_fornecidas;7442;LINE/LINE_completas_fornecidas.fasta;9;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B3#LINE/L1B
+LINE;L1B;L1B3;intergenica;390;LINE/LINE_intergenica.fasta;49;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B3#LINE/L1B|part=IGR|start=2926|end=3315|len=390|active_count=None
+LINE;L1B;L1B3;tail;53;LINE/LINE_tail.fasta;10;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B3#LINE/L1B|part=TAIL|start=7390|end=7442|len=53|active_count=None
+LINE;L1B;L1B4;3UTR;305;LINE/LINE_3UTR.fasta;59;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B4#LINE/L1B|part=3UTR|start=6777|end=7081|len=305|active_count=None
+LINE;L1B;L1B4;5UTR;1640;LINE/LINE_5UTR.fasta;60;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B4#LINE/L1B|part=5UTR|start=1|end=1640|len=1640|active_count=None
+LINE;L1B;L1B4;ORF1;901;LINE/LINE_ORF1.fasta;60;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B4#LINE/L1B|part=ORF1|start=1641|end=2541|len=901|active_count=None
+LINE;L1B;L1B4;ORF2;3797;LINE/LINE_ORF2.fasta;52;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B4#LINE/L1B|part=ORF2|start=2980|end=6776|len=3797|active_count=None
+LINE;L1B;L1B4;intergenica;438;LINE/LINE_intergenica.fasta;50;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B4#LINE/L1B|part=IGR|start=2542|end=2979|len=438|active_count=None
+LINE;L1B;L1B4;nao_separadas;7108;LINE/LINE_nao_separadas.fasta;5;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1B4#LINE/L1B
+LINE;L1B;L1B4;tail;27;LINE/LINE_tail.fasta;11;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B4#LINE/L1B|part=TAIL|start=7082|end=7108|len=27|active_count=None
+LINE;L1B;L1B5;3UTR;1072;LINE/LINE_3UTR.fasta;10;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B5#LINE/L1B
+LINE;L1B;L1B5;3UTR;269;LINE/LINE_3UTR.fasta;60;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B5#LINE/L1B|part=3UTR|start=6831|end=7099|len=269|active_count=None
+LINE;L1B;L1B5;5UTR;3280;LINE/LINE_5UTR.fasta;10;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B5#LINE/L1B
+LINE;L1B;L1B5;5UTR;1680;LINE/LINE_5UTR.fasta;61;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B5#LINE/L1B|part=5UTR|start=1|end=1680|len=1680|active_count=None
+LINE;L1B;L1B5;ORF1;642;LINE/LINE_ORF1.fasta;10;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B5#LINE/L1B
+LINE;L1B;L1B5;ORF1;905;LINE/LINE_ORF1.fasta;61;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B5#LINE/L1B|part=ORF1|start=1681|end=2585|len=905|active_count=None
+LINE;L1B;L1B5;ORF2;636;LINE/LINE_ORF2.fasta;6;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1B5#LINE/L1B
+LINE;L1B;L1B5;ORF2;3801;LINE/LINE_ORF2.fasta;53;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B5#LINE/L1B|part=ORF2|start=3030|end=6830|len=3801|active_count=None
+LINE;L1B;L1B5;completas_fornecidas;7163;LINE/LINE_completas_fornecidas.fasta;10;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B5#LINE/L1B
+LINE;L1B;L1B5;intergenica;1533;LINE/LINE_intergenica.fasta;6;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1B5#LINE/L1B
+LINE;L1B;L1B5;intergenica;444;LINE/LINE_intergenica.fasta;51;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B5#LINE/L1B|part=IGR|start=2586|end=3029|len=444|active_count=None
+LINE;L1B;L1B5;tail;64;LINE/LINE_tail.fasta;12;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B5#LINE/L1B|part=TAIL|start=7100|end=7163|len=64|active_count=None
+LINE;L1B;L1B6;3UTR;348;LINE/LINE_3UTR.fasta;11;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B6#LINE/L1B
+LINE;L1B;L1B6;3UTR;269;LINE/LINE_3UTR.fasta;61;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B6#LINE/L1B|part=3UTR|start=7198|end=7466|len=269|active_count=None
+LINE;L1B;L1B6;5UTR;3641;LINE/LINE_5UTR.fasta;11;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B6#LINE/L1B
+LINE;L1B;L1B6;5UTR;2033;LINE/LINE_5UTR.fasta;62;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B6#LINE/L1B|part=5UTR|start=1|end=2033|len=2033|active_count=None
+LINE;L1B;L1B6;ORF1;708;LINE/LINE_ORF1.fasta;11;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B6#LINE/L1B
+LINE;L1B;L1B6;ORF1;910;LINE/LINE_ORF1.fasta;62;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B6#LINE/L1B|part=ORF1|start=2034|end=2943|len=910|active_count=None
+LINE;L1B;L1B6;ORF2;795;LINE/LINE_ORF2.fasta;7;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1B6#LINE/L1B
+LINE;L1B;L1B6;ORF2;3807;LINE/LINE_ORF2.fasta;54;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B6#LINE/L1B|part=ORF2|start=3391|end=7197|len=3807|active_count=None
+LINE;L1B;L1B6;completas_fornecidas;7545;LINE/LINE_completas_fornecidas.fasta;11;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B6#LINE/L1B
+LINE;L1B;L1B6;intergenica;2053;LINE/LINE_intergenica.fasta;7;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1B6#LINE/L1B
+LINE;L1B;L1B6;intergenica;447;LINE/LINE_intergenica.fasta;52;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B6#LINE/L1B|part=IGR|start=2944|end=3390|len=447|active_count=None
+LINE;L1B;L1B6;tail;79;LINE/LINE_tail.fasta;13;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B6#LINE/L1B|part=TAIL|start=7467|end=7545|len=79|active_count=None
+LINE;L1B;L1B7;3UTR;337;LINE/LINE_3UTR.fasta;12;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1B7#LINE/L1B
+LINE;L1B;L1B7;3UTR;269;LINE/LINE_3UTR.fasta;62;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B7#LINE/L1B|part=3UTR|start=7352|end=7620|len=269|active_count=None
+LINE;L1B;L1B7;5UTR;4712;LINE/LINE_5UTR.fasta;12;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1B7#LINE/L1B
+LINE;L1B;L1B7;5UTR;2208;LINE/LINE_5UTR.fasta;63;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B7#LINE/L1B|part=5UTR|start=1|end=2208|len=2208|active_count=None
+LINE;L1B;L1B7;ORF1;1167;LINE/LINE_ORF1.fasta;12;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1B7#LINE/L1B
+LINE;L1B;L1B7;ORF1;908;LINE/LINE_ORF1.fasta;63;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B7#LINE/L1B|part=ORF1|start=2209|end=3116|len=908|active_count=None
+LINE;L1B;L1B7;ORF2;618;LINE/LINE_ORF2.fasta;8;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1B7#LINE/L1B
+LINE;L1B;L1B7;ORF2;3813;LINE/LINE_ORF2.fasta;55;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B7#LINE/L1B|part=ORF2|start=3539|end=7351|len=3813|active_count=None
+LINE;L1B;L1B7;completas_fornecidas;7688;LINE/LINE_completas_fornecidas.fasta;12;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1B7#LINE/L1B
+LINE;L1B;L1B7;intergenica;854;LINE/LINE_intergenica.fasta;8;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1B7#LINE/L1B
+LINE;L1B;L1B7;intergenica;422;LINE/LINE_intergenica.fasta;53;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B7#LINE/L1B|part=IGR|start=3117|end=3538|len=422|active_count=None
+LINE;L1B;L1B7;tail;68;LINE/LINE_tail.fasta;14;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B7#LINE/L1B|part=TAIL|start=7621|end=7688|len=68|active_count=None
+LINE;L1B;L1B8;3UTR;267;LINE/LINE_3UTR.fasta;63;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B8#LINE/L1B|part=3UTR|start=5964|end=6230|len=267|active_count=None
+LINE;L1B;L1B8;5UTR;873;LINE/LINE_5UTR.fasta;64;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B8#LINE/L1B|part=5UTR|start=1|end=873|len=873|active_count=None
+LINE;L1B;L1B8;ORF1;884;LINE/LINE_ORF1.fasta;64;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B8#LINE/L1B|part=ORF1|start=874|end=1757|len=884|active_count=None
+LINE;L1B;L1B8;ORF2;3807;LINE/LINE_ORF2.fasta;56;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B8#LINE/L1B|part=ORF2|start=2157|end=5963|len=3807|active_count=None
+LINE;L1B;L1B8;intergenica;399;LINE/LINE_intergenica.fasta;54;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B8#LINE/L1B|part=IGR|start=1758|end=2156|len=399|active_count=None
+LINE;L1B;L1B8;nao_separadas;6297;LINE/LINE_nao_separadas.fasta;6;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1B8#LINE/L1B
+LINE;L1B;L1B8;tail;67;LINE/LINE_tail.fasta;15;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B8#LINE/L1B|part=TAIL|start=6231|end=6297|len=67|active_count=None
+LINE;L1B;L1B9;3UTR;272;LINE/LINE_3UTR.fasta;64;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1B9#LINE/L1B|part=3UTR|start=6375|end=6646|len=272|active_count=None
+LINE;L1B;L1B9;5UTR;1250;LINE/LINE_5UTR.fasta;65;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1B9#LINE/L1B|part=5UTR|start=1|end=1250|len=1250|active_count=None
+LINE;L1B;L1B9;ORF1;907;LINE/LINE_ORF1.fasta;65;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1B9#LINE/L1B|part=ORF1|start=1251|end=2157|len=907|active_count=None
+LINE;L1B;L1B9;ORF2;3783;LINE/LINE_ORF2.fasta;57;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1B9#LINE/L1B|part=ORF2|start=2592|end=6374|len=3783|active_count=None
+LINE;L1B;L1B9;intergenica;434;LINE/LINE_intergenica.fasta;55;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1B9#LINE/L1B|part=IGR|start=2158|end=2591|len=434|active_count=None
+LINE;L1B;L1B9;nao_separadas;6699;LINE/LINE_nao_separadas.fasta;7;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1B9#LINE/L1B
+LINE;L1B;L1B9;tail;53;LINE/LINE_tail.fasta;16;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1B9#LINE/L1B|part=TAIL|start=6647|end=6699|len=53|active_count=None
+LINE;L1C;L1C1;3UTR;3104;LINE/LINE_3UTR.fasta;17;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C1#LINE/L1C
+LINE;L1C;L1C1;3UTR;262;LINE/LINE_3UTR.fasta;68;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C1#LINE/L1C|part=3UTR|start=6856|end=7117|len=262|active_count=None
+LINE;L1C;L1C1;5UTR;1641;LINE/LINE_5UTR.fasta;17;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C1#LINE/L1C
+LINE;L1C;L1C1;ORF1;891;LINE/LINE_ORF1.fasta;17;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C1#LINE/L1C
+LINE;L1C;L1C1;ORF2;1008;LINE/LINE_ORF2.fasta;13;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C1#LINE/L1C
+LINE;L1C;L1C1;ORF2;3803;LINE/LINE_ORF2.fasta;61;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C1#LINE/L1C|part=ORF2|start=3062|end=6855|len=3794|active_count=None
+LINE;L1C;L1C1;completas_fornecidas;7125;LINE/LINE_completas_fornecidas.fasta;14;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C1#LINE/L1C
+LINE;L1C;L1C1;intergenica;481;LINE/LINE_intergenica.fasta;13;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C1#LINE/L1C
+LINE;L1C;L1C1;intergenica;529;LINE/LINE_intergenica.fasta;59;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C1#LINE/L1C|part=IGR|start=2533|end=3061|len=529|active_count=None
+LINE;L1C;L1C1;tail;8;LINE/LINE_tail.fasta;20;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C1#LINE/L1C|part=TAIL|start=7118|end=7125|len=8|active_count=None
+LINE;L1C;L1C10;3UTR;301;LINE/LINE_3UTR.fasta;13;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C10#LINE/L1C
+LINE;L1C;L1C10;3UTR;258;LINE/LINE_3UTR.fasta;77;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C10#LINE/L1C|part=3UTR|start=6618|end=6875|len=258|active_count=None
+LINE;L1C;L1C10;5UTR;5191;LINE/LINE_5UTR.fasta;13;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C10#LINE/L1C
+LINE;L1C;L1C10;5UTR;1556;LINE/LINE_5UTR.fasta;76;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C10#LINE/L1C|part=5UTR|start=1|end=1556|len=1556|active_count=None
+LINE;L1C;L1C10;ORF1;723;LINE/LINE_ORF1.fasta;13;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C10#LINE/L1C
+LINE;L1C;L1C10;ORF1;879;LINE/LINE_ORF1.fasta;76;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C10#LINE/L1C|part=ORF1|start=1557|end=2435|len=879|active_count=None
+LINE;L1C;L1C10;ORF2;618;LINE/LINE_ORF2.fasta;9;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C10#LINE/L1C
+LINE;L1C;L1C10;ORF2;3797;LINE/LINE_ORF2.fasta;70;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C10#LINE/L1C|part=ORF2|start=2821|end=6617|len=3797|active_count=None
+LINE;L1C;L1C10;completas_fornecidas;6918;LINE/LINE_completas_fornecidas.fasta;22;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C10#LINE/L1C
+LINE;L1C;L1C10;intergenica;85;LINE/LINE_intergenica.fasta;9;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C10#LINE/L1C
+LINE;L1C;L1C10;intergenica;385;LINE/LINE_intergenica.fasta;68;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C10#LINE/L1C|part=IGR|start=2436|end=2820|len=385|active_count=None
+LINE;L1C;L1C10;tail;43;LINE/LINE_tail.fasta;29;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C10#LINE/L1C|part=TAIL|start=6876|end=6918|len=43|active_count=None
+LINE;L1C;L1C11;3UTR;964;LINE/LINE_3UTR.fasta;14;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C11#LINE/L1C
+LINE;L1C;L1C11;3UTR;264;LINE/LINE_3UTR.fasta;78;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C11#LINE/L1C|part=3UTR|start=6507|end=6770|len=264|active_count=None
+LINE;L1C;L1C11;5UTR;2653;LINE/LINE_5UTR.fasta;14;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C11#LINE/L1C
+LINE;L1C;L1C11;5UTR;1359;LINE/LINE_5UTR.fasta;77;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C11#LINE/L1C|part=5UTR|start=1|end=1359|len=1359|active_count=None
+LINE;L1C;L1C11;ORF1;1584;LINE/LINE_ORF1.fasta;14;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C11#LINE/L1C
+LINE;L1C;L1C11;ORF1;889;LINE/LINE_ORF1.fasta;77;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C11#LINE/L1C|part=ORF1|start=1360|end=2248|len=889|active_count=None
+LINE;L1C;L1C11;ORF2;1542;LINE/LINE_ORF2.fasta;10;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C11#LINE/L1C
+LINE;L1C;L1C11;ORF2;3814;LINE/LINE_ORF2.fasta;71;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C11#LINE/L1C|part=ORF2|start=2693|end=6506|len=3814|active_count=None
+LINE;L1C;L1C11;completas_fornecidas;6799;LINE/LINE_completas_fornecidas.fasta;23;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C11#LINE/L1C
+LINE;L1C;L1C11;intergenica;56;LINE/LINE_intergenica.fasta;10;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C11#LINE/L1C
+LINE;L1C;L1C11;intergenica;444;LINE/LINE_intergenica.fasta;69;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C11#LINE/L1C|part=IGR|start=2249|end=2692|len=444|active_count=None
+LINE;L1C;L1C11;tail;29;LINE/LINE_tail.fasta;30;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C11#LINE/L1C|part=TAIL|start=6771|end=6799|len=29|active_count=None
+LINE;L1C;L1C12;3UTR;960;LINE/LINE_3UTR.fasta;15;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C12#LINE/L1C
+LINE;L1C;L1C12;3UTR;260;LINE/LINE_3UTR.fasta;79;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C12#LINE/L1C|part=3UTR|start=6374|end=6633|len=260|active_count=None
+LINE;L1C;L1C12;5UTR;2536;LINE/LINE_5UTR.fasta;15;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C12#LINE/L1C
+LINE;L1C;L1C12;5UTR;1252;LINE/LINE_5UTR.fasta;78;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C12#LINE/L1C|part=5UTR|start=1|end=1252|len=1252|active_count=None
+LINE;L1C;L1C12;ORF1;1032;LINE/LINE_ORF1.fasta;15;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C12#LINE/L1C
+LINE;L1C;L1C12;ORF1;890;LINE/LINE_ORF1.fasta;78;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C12#LINE/L1C|part=ORF1|start=1253|end=2142|len=890|active_count=None
+LINE;L1C;L1C12;ORF2;705;LINE/LINE_ORF2.fasta;11;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C12#LINE/L1C
+LINE;L1C;L1C12;ORF2;3798;LINE/LINE_ORF2.fasta;72;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C12#LINE/L1C|part=ORF2|start=2576|end=6373|len=3798|active_count=None
+LINE;L1C;L1C12;completas_fornecidas;6669;LINE/LINE_completas_fornecidas.fasta;24;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C12#LINE/L1C
+LINE;L1C;L1C12;intergenica;1436;LINE/LINE_intergenica.fasta;11;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C12#LINE/L1C
+LINE;L1C;L1C12;intergenica;433;LINE/LINE_intergenica.fasta;70;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C12#LINE/L1C|part=IGR|start=2143|end=2575|len=433|active_count=None
+LINE;L1C;L1C12;tail;36;LINE/LINE_tail.fasta;31;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C12#LINE/L1C|part=TAIL|start=6634|end=6669|len=36|active_count=None
+LINE;L1C;L1C13;3UTR;1265;LINE/LINE_3UTR.fasta;16;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C13#LINE/L1C
+LINE;L1C;L1C13;3UTR;259;LINE/LINE_3UTR.fasta;80;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C13#LINE/L1C|part=3UTR|start=6174|end=6432|len=259|active_count=None
+LINE;L1C;L1C13;5UTR;3107;LINE/LINE_5UTR.fasta;16;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C13#LINE/L1C
+LINE;L1C;L1C13;5UTR;1037;LINE/LINE_5UTR.fasta;79;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C13#LINE/L1C|part=5UTR|start=1|end=1037|len=1037|active_count=None
+LINE;L1C;L1C13;ORF1;657;LINE/LINE_ORF1.fasta;16;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C13#LINE/L1C
+LINE;L1C;L1C13;ORF1;888;LINE/LINE_ORF1.fasta;79;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C13#LINE/L1C|part=ORF1|start=1038|end=1925|len=888|active_count=None
+LINE;L1C;L1C13;ORF2;861;LINE/LINE_ORF2.fasta;12;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C13#LINE/L1C
+LINE;L1C;L1C13;ORF2;3808;LINE/LINE_ORF2.fasta;73;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C13#LINE/L1C|part=ORF2|start=2366|end=6173|len=3808|active_count=None
+LINE;L1C;L1C13;completas_fornecidas;6462;LINE/LINE_completas_fornecidas.fasta;25;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C13#LINE/L1C
+LINE;L1C;L1C13;intergenica;572;LINE/LINE_intergenica.fasta;12;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C13#LINE/L1C
+LINE;L1C;L1C13;intergenica;440;LINE/LINE_intergenica.fasta;71;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C13#LINE/L1C|part=IGR|start=1926|end=2365|len=440|active_count=None
+LINE;L1C;L1C13;tail;30;LINE/LINE_tail.fasta;32;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C13#LINE/L1C|part=TAIL|start=6433|end=6462|len=30|active_count=None
+LINE;L1C;L1C2;3UTR;2720;LINE/LINE_3UTR.fasta;18;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C2#LINE/L1C
+LINE;L1C;L1C2;3UTR;268;LINE/LINE_3UTR.fasta;69;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C2#LINE/L1C|part=3UTR|start=7242|end=7509|len=268|active_count=None
+LINE;L1C;L1C2;5UTR;1925;LINE/LINE_5UTR.fasta;18;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C2#LINE/L1C
+LINE;L1C;L1C2;5UTR;2024;LINE/LINE_5UTR.fasta;69;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C2#LINE/L1C|part=5UTR|start=1|end=2024|len=2024|active_count=None
+LINE;L1C;L1C2;ORF1;645;LINE/LINE_ORF1.fasta;18;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C2#LINE/L1C
+LINE;L1C;L1C2;ORF1;889;LINE/LINE_ORF1.fasta;69;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C2#LINE/L1C|part=ORF1|start=2025|end=2913|len=889|active_count=None
+LINE;L1C;L1C2;ORF2;1422;LINE/LINE_ORF2.fasta;14;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C2#LINE/L1C
+LINE;L1C;L1C2;ORF2;3812;LINE/LINE_ORF2.fasta;62;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C2#LINE/L1C|part=ORF2|start=3430|end=7241|len=3812|active_count=None
+LINE;L1C;L1C2;completas_fornecidas;7532;LINE/LINE_completas_fornecidas.fasta;15;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C2#LINE/L1C
+LINE;L1C;L1C2;intergenica;820;LINE/LINE_intergenica.fasta;14;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C2#LINE/L1C
+LINE;L1C;L1C2;intergenica;516;LINE/LINE_intergenica.fasta;60;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C2#LINE/L1C|part=IGR|start=2914|end=3429|len=516|active_count=None
+LINE;L1C;L1C2;tail;23;LINE/LINE_tail.fasta;21;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C2#LINE/L1C|part=TAIL|start=7510|end=7532|len=23|active_count=None
+LINE;L1C;L1C3;3UTR;1525;LINE/LINE_3UTR.fasta;19;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C3#LINE/L1C
+LINE;L1C;L1C3;3UTR;261;LINE/LINE_3UTR.fasta;70;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C3#LINE/L1C|part=3UTR|start=6607|end=6867|len=261|active_count=None
+LINE;L1C;L1C3;5UTR;2568;LINE/LINE_5UTR.fasta;19;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C3#LINE/L1C
+LINE;L1C;L1C3;5UTR;1414;LINE/LINE_5UTR.fasta;70;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C3#LINE/L1C|part=5UTR|start=1|end=1414|len=1414|active_count=None
+LINE;L1C;L1C3;ORF1;978;LINE/LINE_ORF1.fasta;19;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C3#LINE/L1C
+LINE;L1C;L1C3;ORF1;890;LINE/LINE_ORF1.fasta;70;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C3#LINE/L1C|part=ORF1|start=1415|end=2304|len=890|active_count=None
+LINE;L1C;L1C3;ORF2;1821;LINE/LINE_ORF2.fasta;15;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C3#LINE/L1C
+LINE;L1C;L1C3;ORF2;3813;LINE/LINE_ORF2.fasta;63;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C3#LINE/L1C|part=ORF2|start=2794|end=6606|len=3813|active_count=None
+LINE;L1C;L1C3;completas_fornecidas;6897;LINE/LINE_completas_fornecidas.fasta;16;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C3#LINE/L1C
+LINE;L1C;L1C3;intergenica;5;LINE/LINE_intergenica.fasta;15;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C3#LINE/L1C
+LINE;L1C;L1C3;intergenica;489;LINE/LINE_intergenica.fasta;61;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C3#LINE/L1C|part=IGR|start=2305|end=2793|len=489|active_count=None
+LINE;L1C;L1C3;tail;30;LINE/LINE_tail.fasta;22;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C3#LINE/L1C|part=TAIL|start=6868|end=6897|len=30|active_count=None
+LINE;L1C;L1C4;3UTR;3383;LINE/LINE_3UTR.fasta;20;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C4#LINE/L1C
+LINE;L1C;L1C4;3UTR;261;LINE/LINE_3UTR.fasta;71;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C4#LINE/L1C|part=3UTR|start=6592|end=6852|len=261|active_count=None
+LINE;L1C;L1C4;5UTR;1413;LINE/LINE_5UTR.fasta;20;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C4#LINE/L1C
+LINE;L1C;L1C4;ORF1;891;LINE/LINE_ORF1.fasta;20;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C4#LINE/L1C
+LINE;L1C;L1C4;ORF2;741;LINE/LINE_ORF2.fasta;16;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C4#LINE/L1C
+LINE;L1C;L1C4;ORF2;3803;LINE/LINE_ORF2.fasta;64;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C4#LINE/L1C|part=ORF2|start=2789|end=6591|len=3803|active_count=None
+LINE;L1C;L1C4;completas_fornecidas;6873;LINE/LINE_completas_fornecidas.fasta;17;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C4#LINE/L1C
+LINE;L1C;L1C4;intergenica;445;LINE/LINE_intergenica.fasta;16;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C4#LINE/L1C
+LINE;L1C;L1C4;intergenica;484;LINE/LINE_intergenica.fasta;62;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C4#LINE/L1C|part=IGR|start=2305|end=2788|len=484|active_count=None
+LINE;L1C;L1C4;tail;21;LINE/LINE_tail.fasta;23;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C4#LINE/L1C|part=TAIL|start=6853|end=6873|len=21|active_count=None
+LINE;L1C;L1C5;3UTR;247;LINE/LINE_3UTR.fasta;72;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C5#LINE/L1C|part=3UTR|start=6473|end=6719|len=247|active_count=None
+LINE;L1C;L1C5;5UTR;1368;LINE/LINE_5UTR.fasta;71;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C5#LINE/L1C|part=5UTR|start=1|end=1368|len=1368|active_count=None
+LINE;L1C;L1C5;ORF1;889;LINE/LINE_ORF1.fasta;71;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C5#LINE/L1C|part=ORF1|start=1369|end=2257|len=889|active_count=None
+LINE;L1C;L1C5;ORF2;3789;LINE/LINE_ORF2.fasta;65;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C5#LINE/L1C|part=ORF2|start=2684|end=6472|len=3789|active_count=None
+LINE;L1C;L1C5;intergenica;426;LINE/LINE_intergenica.fasta;63;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C5#LINE/L1C|part=IGR|start=2258|end=2683|len=426|active_count=None
+LINE;L1C;L1C5;nao_separadas;6744;LINE/LINE_nao_separadas.fasta;8;dados/FASTA/LINE/LINE_nao_separadas.fasta;Anterior;SscL1C5#LINE/L1C
+LINE;L1C;L1C5;tail;25;LINE/LINE_tail.fasta;24;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C5#LINE/L1C|part=TAIL|start=6720|end=6744|len=25|active_count=None
+LINE;L1C;L1C6;3UTR;1710;LINE/LINE_3UTR.fasta;21;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C6#LINE/L1C
+LINE;L1C;L1C6;3UTR;257;LINE/LINE_3UTR.fasta;73;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C6#LINE/L1C|part=3UTR|start=6560|end=6816|len=257|active_count=None
+LINE;L1C;L1C6;5UTR;2712;LINE/LINE_5UTR.fasta;21;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C6#LINE/L1C
+LINE;L1C;L1C6;5UTR;1411;LINE/LINE_5UTR.fasta;72;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C6#LINE/L1C|part=5UTR|start=1|end=1411|len=1411|active_count=None
+LINE;L1C;L1C6;ORF1;936;LINE/LINE_ORF1.fasta;21;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C6#LINE/L1C
+LINE;L1C;L1C6;ORF1;890;LINE/LINE_ORF1.fasta;72;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C6#LINE/L1C|part=ORF1|start=1412|end=2301|len=890|active_count=None
+LINE;L1C;L1C6;ORF2;783;LINE/LINE_ORF2.fasta;17;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C6#LINE/L1C
+LINE;L1C;L1C6;ORF2;3808;LINE/LINE_ORF2.fasta;66;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C6#LINE/L1C|part=ORF2|start=2752|end=6559|len=3808|active_count=None
+LINE;L1C;L1C6;completas_fornecidas;6842;LINE/LINE_completas_fornecidas.fasta;18;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C6#LINE/L1C
+LINE;L1C;L1C6;intergenica;701;LINE/LINE_intergenica.fasta;17;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C6#LINE/L1C
+LINE;L1C;L1C6;intergenica;450;LINE/LINE_intergenica.fasta;64;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C6#LINE/L1C|part=IGR|start=2302|end=2751|len=450|active_count=None
+LINE;L1C;L1C6;tail;26;LINE/LINE_tail.fasta;25;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C6#LINE/L1C|part=TAIL|start=6817|end=6842|len=26|active_count=None
+LINE;L1C;L1C7;3UTR;1214;LINE/LINE_3UTR.fasta;22;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C7#LINE/L1C
+LINE;L1C;L1C7;3UTR;261;LINE/LINE_3UTR.fasta;74;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C7#LINE/L1C|part=3UTR|start=6791|end=7051|len=261|active_count=None
+LINE;L1C;L1C7;5UTR;5084;LINE/LINE_5UTR.fasta;22;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C7#LINE/L1C
+LINE;L1C;L1C7;5UTR;1603;LINE/LINE_5UTR.fasta;73;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C7#LINE/L1C|part=5UTR|start=1|end=1603|len=1603|active_count=None
+LINE;L1C;L1C7;ORF1;783;LINE/LINE_ORF1.fasta;22;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C7#LINE/L1C
+LINE;L1C;L1C7;ORF1;890;LINE/LINE_ORF1.fasta;73;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C7#LINE/L1C|part=ORF1|start=1604|end=2493|len=890|active_count=None
+LINE;L1C;L1C7;ORF2;3804;LINE/LINE_ORF2.fasta;67;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C7#LINE/L1C|part=ORF2|start=2987|end=6790|len=3804|active_count=None
+LINE;L1C;L1C7;completas_fornecidas;7081;LINE/LINE_completas_fornecidas.fasta;19;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C7#LINE/L1C
+LINE;L1C;L1C7;intergenica;493;LINE/LINE_intergenica.fasta;65;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C7#LINE/L1C|part=IGR|start=2494|end=2986|len=493|active_count=None
+LINE;L1C;L1C7;tail;30;LINE/LINE_tail.fasta;26;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C7#LINE/L1C|part=TAIL|start=7052|end=7081|len=30|active_count=None
+LINE;L1C;L1C8;3UTR;2253;LINE/LINE_3UTR.fasta;23;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C8#LINE/L1C
+LINE;L1C;L1C8;3UTR;251;LINE/LINE_3UTR.fasta;75;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C8#LINE/L1C|part=3UTR|start=7122|end=7372|len=251|active_count=None
+LINE;L1C;L1C8;5UTR;3807;LINE/LINE_5UTR.fasta;23;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C8#LINE/L1C
+LINE;L1C;L1C8;5UTR;1971;LINE/LINE_5UTR.fasta;74;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C8#LINE/L1C|part=5UTR|start=1|end=1971|len=1971|active_count=None
+LINE;L1C;L1C8;ORF1;1329;LINE/LINE_ORF1.fasta;23;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C8#LINE/L1C
+LINE;L1C;L1C8;ORF1;889;LINE/LINE_ORF1.fasta;74;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C8#LINE/L1C|part=ORF1|start=1972|end=2860|len=889|active_count=None
+LINE;L1C;L1C8;ORF2;3766;LINE/LINE_ORF2.fasta;68;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C8#LINE/L1C|part=ORF2|start=3356|end=7121|len=3766|active_count=None
+LINE;L1C;L1C8;completas_fornecidas;7389;LINE/LINE_completas_fornecidas.fasta;20;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C8#LINE/L1C
+LINE;L1C;L1C8;intergenica;495;LINE/LINE_intergenica.fasta;66;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C8#LINE/L1C|part=IGR|start=2861|end=3355|len=495|active_count=None
+LINE;L1C;L1C8;tail;17;LINE/LINE_tail.fasta;27;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C8#LINE/L1C|part=TAIL|start=7373|end=7389|len=17|active_count=None
+LINE;L1C;L1C9;3UTR;1148;LINE/LINE_3UTR.fasta;24;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1C9#LINE/L1C
+LINE;L1C;L1C9;3UTR;251;LINE/LINE_3UTR.fasta;76;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1C9#LINE/L1C|part=3UTR|start=6735|end=6985|len=251|active_count=None
+LINE;L1C;L1C9;5UTR;3225;LINE/LINE_5UTR.fasta;24;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1C9#LINE/L1C
+LINE;L1C;L1C9;5UTR;1585;LINE/LINE_5UTR.fasta;75;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1C9#LINE/L1C|part=5UTR|start=1|end=1585|len=1585|active_count=None
+LINE;L1C;L1C9;ORF1;1092;LINE/LINE_ORF1.fasta;24;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1C9#LINE/L1C
+LINE;L1C;L1C9;ORF1;889;LINE/LINE_ORF1.fasta;75;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1C9#LINE/L1C|part=ORF1|start=1586|end=2474|len=889|active_count=None
+LINE;L1C;L1C9;ORF2;822;LINE/LINE_ORF2.fasta;18;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1C9#LINE/L1C
+LINE;L1C;L1C9;ORF2;3799;LINE/LINE_ORF2.fasta;69;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1C9#LINE/L1C|part=ORF2|start=2936|end=6734|len=3799|active_count=None
+LINE;L1C;L1C9;completas_fornecidas;7008;LINE/LINE_completas_fornecidas.fasta;21;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1C9#LINE/L1C
+LINE;L1C;L1C9;intergenica;721;LINE/LINE_intergenica.fasta;18;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1C9#LINE/L1C
+LINE;L1C;L1C9;intergenica;461;LINE/LINE_intergenica.fasta;67;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1C9#LINE/L1C|part=IGR|start=2475|end=2935|len=461|active_count=None
+LINE;L1C;L1C9;tail;23;LINE/LINE_tail.fasta;28;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1C9#LINE/L1C|part=TAIL|start=6986|end=7008|len=23|active_count=None
+LINE;L1D;L1D1;3UTR;334;LINE/LINE_3UTR.fasta;35;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D1#LINE/L1D
+LINE;L1D;L1D1;3UTR;277;LINE/LINE_3UTR.fasta;81;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D1#LINE/L1D|part=3UTR|start=7730|end=8006|len=277|active_count=9
+LINE;L1D;L1D1;5UTR;2500;LINE/LINE_5UTR.fasta;35;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D1#LINE/L1D
+LINE;L1D;L1D1;ORF1;891;LINE/LINE_ORF1.fasta;35;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D1#LINE/L1D
+LINE;L1D;L1D1;ORF2;3819;LINE/LINE_ORF2.fasta;29;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D1#LINE/L1D
+LINE;L1D;L1D1;completas_fornecidas;8063;LINE/LINE_completas_fornecidas.fasta;26;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D1#LINE/L1D
+LINE;L1D;L1D1;intergenica;519;LINE/LINE_intergenica.fasta;29;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D1#LINE/L1D
+LINE;L1D;L1D1;tail;57;LINE/LINE_tail.fasta;33;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D1#LINE/L1D|part=TAIL|start=8007|end=8063|len=57|active_count=9
+LINE;L1D;L1D10;3UTR;1009;LINE/LINE_3UTR.fasta;25;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D10#LINE/L1D
+LINE;L1D;L1D10;3UTR;273;LINE/LINE_3UTR.fasta;90;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D10#LINE/L1D|part=3UTR|start=6998|end=7270|len=273|active_count=3
+LINE;L1D;L1D10;5UTR;1776;LINE/LINE_5UTR.fasta;25;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D10#LINE/L1D
+LINE;L1D;L1D10;ORF1;891;LINE/LINE_ORF1.fasta;25;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D10#LINE/L1D
+LINE;L1D;L1D10;ORF2;3114;LINE/LINE_ORF2.fasta;19;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D10#LINE/L1D
+LINE;L1D;L1D10;ORF2;3817;LINE/LINE_ORF2.fasta;76;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D10#LINE/L1D|part=ORF2|start=3181|end=6997|len=3817|active_count=3
+LINE;L1D;L1D10;completas_fornecidas;7303;LINE/LINE_completas_fornecidas.fasta;35;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D10#LINE/L1D
+LINE;L1D;L1D10;intergenica;513;LINE/LINE_intergenica.fasta;19;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D10#LINE/L1D
+LINE;L1D;L1D10;tail;33;LINE/LINE_tail.fasta;42;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D10#LINE/L1D|part=TAIL|start=7271|end=7303|len=33|active_count=3
+LINE;L1D;L1D11;3UTR;380;LINE/LINE_3UTR.fasta;26;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D11#LINE/L1D
+LINE;L1D;L1D11;3UTR;274;LINE/LINE_3UTR.fasta;91;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D11#LINE/L1D|part=3UTR|start=7299|end=7572|len=274|active_count=None
+LINE;L1D;L1D11;5UTR;3481;LINE/LINE_5UTR.fasta;26;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D11#LINE/L1D
+LINE;L1D;L1D11;5UTR;2086;LINE/LINE_5UTR.fasta;80;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1D11#LINE/L1D|part=5UTR|start=1|end=2086|len=2086|active_count=None
+LINE;L1D;L1D11;ORF1;1179;LINE/LINE_ORF1.fasta;26;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D11#LINE/L1D
+LINE;L1D;L1D11;ORF1;891;LINE/LINE_ORF1.fasta;80;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D11#LINE/L1D|part=ORF1|start=2087|end=2977|len=891|active_count=None
+LINE;L1D;L1D11;ORF2;2475;LINE/LINE_ORF2.fasta;20;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D11#LINE/L1D
+LINE;L1D;L1D11;ORF2;3817;LINE/LINE_ORF2.fasta;77;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D11#LINE/L1D|part=ORF2|start=3482|end=7298|len=3817|active_count=None
+LINE;L1D;L1D11;completas_fornecidas;7616;LINE/LINE_completas_fornecidas.fasta;36;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D11#LINE/L1D
+LINE;L1D;L1D11;intergenica;101;LINE/LINE_intergenica.fasta;20;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D11#LINE/L1D
+LINE;L1D;L1D11;intergenica;504;LINE/LINE_intergenica.fasta;72;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D11#LINE/L1D|part=IGR|start=2978|end=3481|len=504|active_count=None
+LINE;L1D;L1D11;tail;44;LINE/LINE_tail.fasta;43;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D11#LINE/L1D|part=TAIL|start=7573|end=7616|len=44|active_count=None
+LINE;L1D;L1D12;3UTR;509;LINE/LINE_3UTR.fasta;27;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D12#LINE/L1D
+LINE;L1D;L1D12;3UTR;271;LINE/LINE_3UTR.fasta;92;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D12#LINE/L1D|part=3UTR|start=6927|end=7197|len=271|active_count=1
+LINE;L1D;L1D12;5UTR;1715;LINE/LINE_5UTR.fasta;27;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D12#LINE/L1D
+LINE;L1D;L1D12;ORF1;891;LINE/LINE_ORF1.fasta;27;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D12#LINE/L1D
+LINE;L1D;L1D12;ORF2;1767;LINE/LINE_ORF2.fasta;21;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D12#LINE/L1D
+LINE;L1D;L1D12;ORF2;3807;LINE/LINE_ORF2.fasta;78;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D12#LINE/L1D|part=ORF2|start=3120|end=6926|len=3807|active_count=1
+LINE;L1D;L1D12;completas_fornecidas;7224;LINE/LINE_completas_fornecidas.fasta;37;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D12#LINE/L1D
+LINE;L1D;L1D12;intergenica;2342;LINE/LINE_intergenica.fasta;21;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D12#LINE/L1D
+LINE;L1D;L1D12;intergenica;513;LINE/LINE_intergenica.fasta;73;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D12#LINE/L1D|part=IGR|start=2607|end=3119|len=513|active_count=1
+LINE;L1D;L1D12;tail;27;LINE/LINE_tail.fasta;44;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D12#LINE/L1D|part=TAIL|start=7198|end=7224|len=27|active_count=1
+LINE;L1D;L1D13;3UTR;973;LINE/LINE_3UTR.fasta;28;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D13#LINE/L1D
+LINE;L1D;L1D13;3UTR;270;LINE/LINE_3UTR.fasta;93;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D13#LINE/L1D|part=3UTR|start=6770|end=7039|len=270|active_count=2
+LINE;L1D;L1D13;5UTR;3248;LINE/LINE_5UTR.fasta;28;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D13#LINE/L1D
+LINE;L1D;L1D13;5UTR;1562;LINE/LINE_5UTR.fasta;81;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1D13#LINE/L1D|part=5UTR|start=1|end=1562|len=1562|active_count=2
+LINE;L1D;L1D13;ORF1;1053;LINE/LINE_ORF1.fasta;28;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D13#LINE/L1D
+LINE;L1D;L1D13;ORF1;887;LINE/LINE_ORF1.fasta;81;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D13#LINE/L1D|part=ORF1|start=1563|end=2449|len=887|active_count=2
+LINE;L1D;L1D13;ORF2;1542;LINE/LINE_ORF2.fasta;22;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D13#LINE/L1D
+LINE;L1D;L1D13;ORF2;3811;LINE/LINE_ORF2.fasta;79;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D13#LINE/L1D|part=ORF2|start=2959|end=6769|len=3811|active_count=2
+LINE;L1D;L1D13;completas_fornecidas;7072;LINE/LINE_completas_fornecidas.fasta;38;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D13#LINE/L1D
+LINE;L1D;L1D13;intergenica;256;LINE/LINE_intergenica.fasta;22;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D13#LINE/L1D
+LINE;L1D;L1D13;intergenica;509;LINE/LINE_intergenica.fasta;74;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D13#LINE/L1D|part=IGR|start=2450|end=2958|len=509|active_count=2
+LINE;L1D;L1D13;tail;33;LINE/LINE_tail.fasta;45;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D13#LINE/L1D|part=TAIL|start=7040|end=7072|len=33|active_count=2
+LINE;L1D;L1D14;3UTR;421;LINE/LINE_3UTR.fasta;29;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D14#LINE/L1D
+LINE;L1D;L1D14;3UTR;272;LINE/LINE_3UTR.fasta;94;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D14#LINE/L1D|part=3UTR|start=6947|end=7218|len=272|active_count=None
+LINE;L1D;L1D14;5UTR;1732;LINE/LINE_5UTR.fasta;29;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D14#LINE/L1D
+LINE;L1D;L1D14;5UTR;1731;LINE/LINE_5UTR.fasta;82;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1D14#LINE/L1D|part=5UTR|start=1|end=1731|len=1731|active_count=None
+LINE;L1D;L1D14;ORF1;891;LINE/LINE_ORF1.fasta;29;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D14#LINE/L1D
+LINE;L1D;L1D14;ORF1;891;LINE/LINE_ORF1.fasta;82;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D14#LINE/L1D|part=ORF1|start=1732|end=2622|len=891|active_count=None
+LINE;L1D;L1D14;ORF2;3696;LINE/LINE_ORF2.fasta;23;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D14#LINE/L1D
+LINE;L1D;L1D14;ORF2;3817;LINE/LINE_ORF2.fasta;80;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D14#LINE/L1D|part=ORF2|start=3129|end=6946|len=3818|active_count=None
+LINE;L1D;L1D14;completas_fornecidas;7246;LINE/LINE_completas_fornecidas.fasta;39;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D14#LINE/L1D
+LINE;L1D;L1D14;intergenica;506;LINE/LINE_intergenica.fasta;23;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D14#LINE/L1D
+LINE;L1D;L1D14;intergenica;506;LINE/LINE_intergenica.fasta;75;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D14#LINE/L1D|part=IGR|start=2623|end=3128|len=506|active_count=None
+LINE;L1D;L1D14;tail;28;LINE/LINE_tail.fasta;46;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D14#LINE/L1D|part=TAIL|start=7219|end=7246|len=28|active_count=None
+LINE;L1D;L1D15;3UTR;2297;LINE/LINE_3UTR.fasta;30;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D15#LINE/L1D
+LINE;L1D;L1D15;3UTR;272;LINE/LINE_3UTR.fasta;95;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D15#LINE/L1D|part=3UTR|start=7079|end=7350|len=272|active_count=None
+LINE;L1D;L1D15;5UTR;1871;LINE/LINE_5UTR.fasta;30;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D15#LINE/L1D
+LINE;L1D;L1D15;ORF1;891;LINE/LINE_ORF1.fasta;30;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D15#LINE/L1D
+LINE;L1D;L1D15;ORF2;1815;LINE/LINE_ORF2.fasta;24;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D15#LINE/L1D
+LINE;L1D;L1D15;ORF2;3811;LINE/LINE_ORF2.fasta;81;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D15#LINE/L1D|part=ORF2|start=3268|end=7078|len=3811|active_count=None
+LINE;L1D;L1D15;completas_fornecidas;7379;LINE/LINE_completas_fornecidas.fasta;40;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D15#LINE/L1D
+LINE;L1D;L1D15;intergenica;505;LINE/LINE_intergenica.fasta;24;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D15#LINE/L1D
+LINE;L1D;L1D15;tail;29;LINE/LINE_tail.fasta;47;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D15#LINE/L1D|part=TAIL|start=7351|end=7379|len=29|active_count=None
+LINE;L1D;L1D16;3UTR;512;LINE/LINE_3UTR.fasta;31;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D16#LINE/L1D
+LINE;L1D;L1D16;3UTR;272;LINE/LINE_3UTR.fasta;96;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D16#LINE/L1D|part=3UTR|start=7083|end=7354|len=272|active_count=None
+LINE;L1D;L1D16;5UTR;3268;LINE/LINE_5UTR.fasta;31;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D16#LINE/L1D
+LINE;L1D;L1D16;5UTR;1867;LINE/LINE_5UTR.fasta;83;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1D16#LINE/L1D|part=5UTR|start=1|end=1867|len=1867|active_count=None
+LINE;L1D;L1D16;ORF1;657;LINE/LINE_ORF1.fasta;31;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D16#LINE/L1D
+LINE;L1D;L1D16;ORF1;890;LINE/LINE_ORF1.fasta;83;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D16#LINE/L1D|part=ORF1|start=1868|end=2757|len=890|active_count=None
+LINE;L1D;L1D16;ORF2;2322;LINE/LINE_ORF2.fasta;25;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D16#LINE/L1D
+LINE;L1D;L1D16;ORF2;3814;LINE/LINE_ORF2.fasta;82;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D16#LINE/L1D|part=ORF2|start=3269|end=7082|len=3814|active_count=None
+LINE;L1D;L1D16;completas_fornecidas;7380;LINE/LINE_completas_fornecidas.fasta;41;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D16#LINE/L1D
+LINE;L1D;L1D16;intergenica;621;LINE/LINE_intergenica.fasta;25;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D16#LINE/L1D
+LINE;L1D;L1D16;intergenica;511;LINE/LINE_intergenica.fasta;76;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D16#LINE/L1D|part=IGR|start=2758|end=3268|len=511|active_count=None
+LINE;L1D;L1D16;tail;26;LINE/LINE_tail.fasta;48;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D16#LINE/L1D|part=TAIL|start=7355|end=7380|len=26|active_count=None
+LINE;L1D;L1D17;3UTR;423;LINE/LINE_3UTR.fasta;32;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D17#LINE/L1D
+LINE;L1D;L1D17;3UTR;272;LINE/LINE_3UTR.fasta;97;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D17#LINE/L1D|part=3UTR|start=6996|end=7267|len=272|active_count=None
+LINE;L1D;L1D17;5UTR;1769;LINE/LINE_5UTR.fasta;32;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D17#LINE/L1D
+LINE;L1D;L1D17;ORF1;891;LINE/LINE_ORF1.fasta;32;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D17#LINE/L1D
+LINE;L1D;L1D17;ORF2;3696;LINE/LINE_ORF2.fasta;26;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D17#LINE/L1D
+LINE;L1D;L1D17;ORF2;3818;LINE/LINE_ORF2.fasta;83;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D17#LINE/L1D|part=ORF2|start=3178|end=6995|len=3818|active_count=None
+LINE;L1D;L1D17;completas_fornecidas;7296;LINE/LINE_completas_fornecidas.fasta;42;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D17#LINE/L1D
+LINE;L1D;L1D17;intergenica;517;LINE/LINE_intergenica.fasta;26;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D17#LINE/L1D
+LINE;L1D;L1D17;tail;29;LINE/LINE_tail.fasta;49;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D17#LINE/L1D|part=TAIL|start=7268|end=7296|len=29|active_count=None
+LINE;L1D;L1D18;3UTR;1003;LINE/LINE_3UTR.fasta;33;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D18#LINE/L1D
+LINE;L1D;L1D18;3UTR;272;LINE/LINE_3UTR.fasta;98;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D18#LINE/L1D|part=3UTR|start=7286|end=7557|len=272|active_count=None
+LINE;L1D;L1D18;5UTR;2064;LINE/LINE_5UTR.fasta;33;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D18#LINE/L1D
+LINE;L1D;L1D18;ORF1;891;LINE/LINE_ORF1.fasta;33;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D18#LINE/L1D
+LINE;L1D;L1D18;ORF2;1512;LINE/LINE_ORF2.fasta;27;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D18#LINE/L1D
+LINE;L1D;L1D18;ORF2;3814;LINE/LINE_ORF2.fasta;84;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D18#LINE/L1D|part=ORF2|start=3472|end=7285|len=3814|active_count=None
+LINE;L1D;L1D18;completas_fornecidas;7586;LINE/LINE_completas_fornecidas.fasta;43;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D18#LINE/L1D
+LINE;L1D;L1D18;intergenica;2116;LINE/LINE_intergenica.fasta;27;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D18#LINE/L1D
+LINE;L1D;L1D18;intergenica;516;LINE/LINE_intergenica.fasta;77;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D18#LINE/L1D|part=IGR|start=2956|end=3471|len=516|active_count=None
+LINE;L1D;L1D18;tail;29;LINE/LINE_tail.fasta;50;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D18#LINE/L1D|part=TAIL|start=7558|end=7586|len=29|active_count=None
+LINE;L1D;L1D19;3UTR;299;LINE/LINE_3UTR.fasta;34;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D19#LINE/L1D
+LINE;L1D;L1D19;3UTR;273;LINE/LINE_3UTR.fasta;99;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D19#LINE/L1D|part=3UTR|start=7225|end=7497|len=273|active_count=None
+LINE;L1D;L1D19;5UTR;1998;LINE/LINE_5UTR.fasta;34;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D19#LINE/L1D
+LINE;L1D;L1D19;ORF1;891;LINE/LINE_ORF1.fasta;34;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D19#LINE/L1D
+LINE;L1D;L1D19;ORF2;3819;LINE/LINE_ORF2.fasta;28;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D19#LINE/L1D
+LINE;L1D;L1D19;completas_fornecidas;7523;LINE/LINE_completas_fornecidas.fasta;44;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D19#LINE/L1D
+LINE;L1D;L1D19;intergenica;516;LINE/LINE_intergenica.fasta;28;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D19#LINE/L1D
+LINE;L1D;L1D19;tail;26;LINE/LINE_tail.fasta;51;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D19#LINE/L1D|part=TAIL|start=7498|end=7523|len=26|active_count=None
+LINE;L1D;L1D2;3UTR;335;LINE/LINE_3UTR.fasta;38;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D2#LINE/L1D
+LINE;L1D;L1D2;3UTR;277;LINE/LINE_3UTR.fasta;82;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D2#LINE/L1D|part=3UTR|start=8104|end=8380|len=277|active_count=22
+LINE;L1D;L1D2;5UTR;2876;LINE/LINE_5UTR.fasta;38;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D2#LINE/L1D
+LINE;L1D;L1D2;ORF1;891;LINE/LINE_ORF1.fasta;38;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D2#LINE/L1D
+LINE;L1D;L1D2;ORF2;3819;LINE/LINE_ORF2.fasta;32;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D2#LINE/L1D
+LINE;L1D;L1D2;completas_fornecidas;8438;LINE/LINE_completas_fornecidas.fasta;27;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D2#LINE/L1D
+LINE;L1D;L1D2;intergenica;517;LINE/LINE_intergenica.fasta;31;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D2#LINE/L1D
+LINE;L1D;L1D2;tail;58;LINE/LINE_tail.fasta;34;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D2#LINE/L1D|part=TAIL|start=8381|end=8438|len=58|active_count=22
+LINE;L1D;L1D20;3UTR;420;LINE/LINE_3UTR.fasta;36;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D20#LINE/L1D
+LINE;L1D;L1D20;3UTR;274;LINE/LINE_3UTR.fasta;100;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D20#LINE/L1D|part=3UTR|start=7233|end=7506|len=274|active_count=None
+LINE;L1D;L1D20;5UTR;4108;LINE/LINE_5UTR.fasta;36;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D20#LINE/L1D
+LINE;L1D;L1D20;5UTR;2008;LINE/LINE_5UTR.fasta;84;dados/FASTA/LINE/LINE_5UTR.fasta;Artigo 2019;L1D20#LINE/L1D|part=5UTR|start=1|end=2008|len=2008|active_count=None
+LINE;L1D;L1D20;ORF1;1089;LINE/LINE_ORF1.fasta;36;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D20#LINE/L1D
+LINE;L1D;L1D20;ORF1;891;LINE/LINE_ORF1.fasta;84;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D20#LINE/L1D|part=ORF1|start=2009|end=2899|len=891|active_count=None
+LINE;L1D;L1D20;ORF2;1917;LINE/LINE_ORF2.fasta;30;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D20#LINE/L1D
+LINE;L1D;L1D20;ORF2;3816;LINE/LINE_ORF2.fasta;85;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D20#LINE/L1D|part=ORF2|start=3417|end=7232|len=3816|active_count=None
+LINE;L1D;L1D20;completas_fornecidas;7530;LINE/LINE_completas_fornecidas.fasta;45;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D20#LINE/L1D
+LINE;L1D;L1D20;intergenica;517;LINE/LINE_intergenica.fasta;78;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D20#LINE/L1D|part=IGR|start=2900|end=3416|len=517|active_count=None
+LINE;L1D;L1D20;tail;24;LINE/LINE_tail.fasta;52;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D20#LINE/L1D|part=TAIL|start=7507|end=7530|len=24|active_count=None
+LINE;L1D;L1D21;3UTR;1679;LINE/LINE_3UTR.fasta;37;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D21#LINE/L1D
+LINE;L1D;L1D21;3UTR;272;LINE/LINE_3UTR.fasta;101;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D21#LINE/L1D|part=3UTR|start=7020|end=7291|len=272|active_count=None
+LINE;L1D;L1D21;5UTR;1798;LINE/LINE_5UTR.fasta;37;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D21#LINE/L1D
+LINE;L1D;L1D21;ORF1;795;LINE/LINE_ORF1.fasta;37;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D21#LINE/L1D
+LINE;L1D;L1D21;ORF1;890;LINE/LINE_ORF1.fasta;85;dados/FASTA/LINE/LINE_ORF1.fasta;Artigo 2019;L1D21#LINE/L1D|part=ORF1|start=1799|end=2688|len=890|active_count=None
+LINE;L1D;L1D21;ORF2;834;LINE/LINE_ORF2.fasta;31;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D21#LINE/L1D
+LINE;L1D;L1D21;ORF2;3814;LINE/LINE_ORF2.fasta;86;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D21#LINE/L1D|part=ORF2|start=3206|end=7019|len=3814|active_count=None
+LINE;L1D;L1D21;completas_fornecidas;7318;LINE/LINE_completas_fornecidas.fasta;46;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D21#LINE/L1D
+LINE;L1D;L1D21;intergenica;2212;LINE/LINE_intergenica.fasta;30;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D21#LINE/L1D
+LINE;L1D;L1D21;intergenica;517;LINE/LINE_intergenica.fasta;79;dados/FASTA/LINE/LINE_intergenica.fasta;Artigo 2019;L1D21#LINE/L1D|part=IGR|start=2689|end=3205|len=517|active_count=None
+LINE;L1D;L1D21;tail;27;LINE/LINE_tail.fasta;53;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D21#LINE/L1D|part=TAIL|start=7292|end=7318|len=27|active_count=None
+LINE;L1D;L1D3;3UTR;322;LINE/LINE_3UTR.fasta;39;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D3#LINE/L1D
+LINE;L1D;L1D3;3UTR;277;LINE/LINE_3UTR.fasta;83;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D3#LINE/L1D|part=3UTR|start=7913|end=8189|len=277|active_count=18
+LINE;L1D;L1D3;5UTR;2687;LINE/LINE_5UTR.fasta;39;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D3#LINE/L1D
+LINE;L1D;L1D3;ORF1;891;LINE/LINE_ORF1.fasta;39;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D3#LINE/L1D
+LINE;L1D;L1D3;ORF2;3819;LINE/LINE_ORF2.fasta;33;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D3#LINE/L1D
+LINE;L1D;L1D3;completas_fornecidas;8234;LINE/LINE_completas_fornecidas.fasta;28;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D3#LINE/L1D
+LINE;L1D;L1D3;intergenica;515;LINE/LINE_intergenica.fasta;32;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D3#LINE/L1D
+LINE;L1D;L1D3;tail;45;LINE/LINE_tail.fasta;35;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D3#LINE/L1D|part=TAIL|start=8190|end=8234|len=45|active_count=18
+LINE;L1D;L1D4;3UTR;317;LINE/LINE_3UTR.fasta;40;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D4#LINE/L1D
+LINE;L1D;L1D4;3UTR;277;LINE/LINE_3UTR.fasta;84;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D4#LINE/L1D|part=3UTR|start=8294|end=8570|len=277|active_count=7
+LINE;L1D;L1D4;5UTR;3064;LINE/LINE_5UTR.fasta;40;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D4#LINE/L1D
+LINE;L1D;L1D4;ORF1;891;LINE/LINE_ORF1.fasta;40;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D4#LINE/L1D
+LINE;L1D;L1D4;ORF2;3819;LINE/LINE_ORF2.fasta;34;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D4#LINE/L1D
+LINE;L1D;L1D4;completas_fornecidas;8610;LINE/LINE_completas_fornecidas.fasta;29;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D4#LINE/L1D
+LINE;L1D;L1D4;intergenica;519;LINE/LINE_intergenica.fasta;33;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D4#LINE/L1D
+LINE;L1D;L1D4;tail;40;LINE/LINE_tail.fasta;36;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D4#LINE/L1D|part=TAIL|start=8571|end=8610|len=40|active_count=7
+LINE;L1D;L1D5;3UTR;2749;LINE/LINE_3UTR.fasta;41;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D5#LINE/L1D
+LINE;L1D;L1D5;3UTR;273;LINE/LINE_3UTR.fasta;85;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D5#LINE/L1D|part=3UTR|start=7519|end=7791|len=273|active_count=6
+LINE;L1D;L1D5;5UTR;2297;LINE/LINE_5UTR.fasta;41;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D5#LINE/L1D
+LINE;L1D;L1D5;ORF1;891;LINE/LINE_ORF1.fasta;41;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D5#LINE/L1D
+LINE;L1D;L1D5;ORF2;1383;LINE/LINE_ORF2.fasta;35;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D5#LINE/L1D
+LINE;L1D;L1D5;ORF2;3812;LINE/LINE_ORF2.fasta;74;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D5#LINE/L1D|part=ORF2|start=3707|end=7518|len=3812|active_count=6
+LINE;L1D;L1D5;completas_fornecidas;7838;LINE/LINE_completas_fornecidas.fasta;30;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D5#LINE/L1D
+LINE;L1D;L1D5;intergenica;518;LINE/LINE_intergenica.fasta;34;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D5#LINE/L1D
+LINE;L1D;L1D5;tail;47;LINE/LINE_tail.fasta;37;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D5#LINE/L1D|part=TAIL|start=7792|end=7838|len=47|active_count=6
+LINE;L1D;L1D6;3UTR;337;LINE/LINE_3UTR.fasta;42;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D6#LINE/L1D
+LINE;L1D;L1D6;3UTR;277;LINE/LINE_3UTR.fasta;86;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D6#LINE/L1D|part=3UTR|start=8486|end=8762|len=277|active_count=14
+LINE;L1D;L1D6;5UTR;3254;LINE/LINE_5UTR.fasta;42;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D6#LINE/L1D
+LINE;L1D;L1D6;ORF1;891;LINE/LINE_ORF1.fasta;42;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D6#LINE/L1D
+LINE;L1D;L1D6;ORF2;3819;LINE/LINE_ORF2.fasta;36;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D6#LINE/L1D
+LINE;L1D;L1D6;completas_fornecidas;8822;LINE/LINE_completas_fornecidas.fasta;31;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D6#LINE/L1D
+LINE;L1D;L1D6;intergenica;521;LINE/LINE_intergenica.fasta;35;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D6#LINE/L1D
+LINE;L1D;L1D6;tail;60;LINE/LINE_tail.fasta;38;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D6#LINE/L1D|part=TAIL|start=8763|end=8822|len=60|active_count=14
+LINE;L1D;L1D7;3UTR;319;LINE/LINE_3UTR.fasta;43;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D7#LINE/L1D
+LINE;L1D;L1D7;3UTR;273;LINE/LINE_3UTR.fasta;87;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D7#LINE/L1D|part=3UTR|start=7144|end=7416|len=273|active_count=9
+LINE;L1D;L1D7;5UTR;1916;LINE/LINE_5UTR.fasta;43;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D7#LINE/L1D
+LINE;L1D;L1D7;ORF1;891;LINE/LINE_ORF1.fasta;43;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D7#LINE/L1D
+LINE;L1D;L1D7;ORF2;3819;LINE/LINE_ORF2.fasta;37;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D7#LINE/L1D
+LINE;L1D;L1D7;completas_fornecidas;7462;LINE/LINE_completas_fornecidas.fasta;32;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D7#LINE/L1D
+LINE;L1D;L1D7;intergenica;517;LINE/LINE_intergenica.fasta;36;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D7#LINE/L1D
+LINE;L1D;L1D7;tail;46;LINE/LINE_tail.fasta;39;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D7#LINE/L1D|part=TAIL|start=7417|end=7462|len=46|active_count=9
+LINE;L1D;L1D8;3UTR;421;LINE/LINE_3UTR.fasta;44;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D8#LINE/L1D
+LINE;L1D;L1D8;3UTR;274;LINE/LINE_3UTR.fasta;88;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D8#LINE/L1D|part=3UTR|start=7042|end=7315|len=274|active_count=3
+LINE;L1D;L1D8;5UTR;1831;LINE/LINE_5UTR.fasta;44;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D8#LINE/L1D
+LINE;L1D;L1D8;ORF1;891;LINE/LINE_ORF1.fasta;44;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D8#LINE/L1D
+LINE;L1D;L1D8;ORF2;3696;LINE/LINE_ORF2.fasta;38;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D8#LINE/L1D
+LINE;L1D;L1D8;ORF2;3818;LINE/LINE_ORF2.fasta;75;dados/FASTA/LINE/LINE_ORF2.fasta;Artigo 2019;L1D8#LINE/L1D|part=ORF2|start=3224|end=7041|len=3818|active_count=3
+LINE;L1D;L1D8;completas_fornecidas;7340;LINE/LINE_completas_fornecidas.fasta;33;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D8#LINE/L1D
+LINE;L1D;L1D8;intergenica;501;LINE/LINE_intergenica.fasta;37;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D8#LINE/L1D
+LINE;L1D;L1D8;tail;25;LINE/LINE_tail.fasta;40;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D8#LINE/L1D|part=TAIL|start=7316|end=7340|len=25|active_count=3
+LINE;L1D;L1D9;3UTR;311;LINE/LINE_3UTR.fasta;45;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SscL1D9#LINE/L1D
+LINE;L1D;L1D9;3UTR;273;LINE/LINE_3UTR.fasta;89;dados/FASTA/LINE/LINE_3UTR.fasta;Artigo 2019;L1D9#LINE/L1D|part=3UTR|start=7335|end=7607|len=273|active_count=4
+LINE;L1D;L1D9;5UTR;2108;LINE/LINE_5UTR.fasta;45;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SscL1D9#LINE/L1D
+LINE;L1D;L1D9;ORF1;891;LINE/LINE_ORF1.fasta;45;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SscL1D9#LINE/L1D
+LINE;L1D;L1D9;ORF2;3819;LINE/LINE_ORF2.fasta;39;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SscL1D9#LINE/L1D
+LINE;L1D;L1D9;completas_fornecidas;7645;LINE/LINE_completas_fornecidas.fasta;34;dados/FASTA/LINE/LINE_completas_fornecidas.fasta;Artigo 2019;L1D9#LINE/L1D
+LINE;L1D;L1D9;intergenica;516;LINE/LINE_intergenica.fasta;38;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SscL1D9#LINE/L1D
+LINE;L1D;L1D9;tail;38;LINE/LINE_tail.fasta;41;dados/FASTA/LINE/LINE_tail.fasta;Artigo 2019;L1D9#LINE/L1D|part=TAIL|start=7608|end=7645|len=38|active_count=4
+LINE;L1_SS;SEQ-6983;3UTR;292;LINE/LINE_3UTR.fasta;47;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SEQ-6983|LINE|chr15_94642747_94646913|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6983;5UTR;57;LINE/LINE_5UTR.fasta;47;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SEQ-6983|LINE|chr15_94642747_94646913|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6983;ORF1;2838;LINE/LINE_ORF1.fasta;47;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SEQ-6983|LINE|chr15_94642747_94646913|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6983;ORF2;984;LINE/LINE_ORF2.fasta;41;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SEQ-6983|LINE|chr15_94642747_94646913|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6984;3UTR;290;LINE/LINE_3UTR.fasta;48;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SEQ-6984|LINE|chr2_56938348_56939547|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6984;5UTR;58;LINE/LINE_5UTR.fasta;48;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SEQ-6984|LINE|chr2_56938348_56939547|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6984;ORF1;852;LINE/LINE_ORF1.fasta;48;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SEQ-6984|LINE|chr2_56938348_56939547|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6985;3UTR;1202;LINE/LINE_3UTR.fasta;49;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SEQ-6985|LINE|chr8_66349120_66355725|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6985;5UTR;1106;LINE/LINE_5UTR.fasta;49;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SEQ-6985|LINE|chr8_66349120_66355725|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6985;ORF1;891;LINE/LINE_ORF1.fasta;49;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SEQ-6985|LINE|chr8_66349120_66355725|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6985;ORF2;2907;LINE/LINE_ORF2.fasta;42;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SEQ-6985|LINE|chr8_66349120_66355725|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6985;intergenica;500;LINE/LINE_intergenica.fasta;40;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SEQ-6985|LINE|chr8_66349120_66355725|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6986;3UTR;286;LINE/LINE_3UTR.fasta;46;dados/FASTA/LINE/LINE_3UTR.fasta;Anterior;SEQ-6986|LINE|chr13_80925789_80932702|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6986;5UTR;3264;LINE/LINE_5UTR.fasta;46;dados/FASTA/LINE/LINE_5UTR.fasta;Anterior;SEQ-6986|LINE|chr13_80925789_80932702|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6986;ORF1;1227;LINE/LINE_ORF1.fasta;46;dados/FASTA/LINE/LINE_ORF1.fasta;Anterior;SEQ-6986|LINE|chr13_80925789_80932702|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6986;ORF2;2040;LINE/LINE_ORF2.fasta;40;dados/FASTA/LINE/LINE_ORF2.fasta;Anterior;SEQ-6986|LINE|chr13_80925789_80932702|L1_SS_LINE_L1_
+LINE;L1_SS;SEQ-6986;intergenica;97;LINE/LINE_intergenica.fasta;39;dados/FASTA/LINE/LINE_intergenica.fasta;Anterior;SEQ-6986|LINE|chr13_80925789_80932702|L1_SS_LINE_L1_

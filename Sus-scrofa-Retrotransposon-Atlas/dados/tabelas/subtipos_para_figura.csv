@@ -1,0 +1,63 @@
+﻿Classe;Subtipo;Origens anteriores;Origens novas;Origens totais;Registros FASTA finais
+LINE;L1A;7;0;7;70
+LINE;L1B;12;0;12;113
+LINE;L1C;13;0;13;143
+LINE;L1D;21;0;21;199
+LINE;L1_SS;4;0;4;17
+SINE;PRE-1;2;0;2;5
+SINE;Pre0_SS;3;0;3;7
+SINE;SINEA;11;0;11;59
+SINE;SINEB;6;0;6;32
+SINE;SINEC;8;0;8;36
+SINE;YoungSINE L;17;0;17;49
+SINE;YoungSINE M;12;0;12;36
+SINE;YoungSINE S;61;0;61;177
+SINE;YoungSINE consenso;1;0;1;3
+PERV;PERV;6;0;6;6
+PERV;PERV (subtipo a conferir);1;0;1;7
+PERV;PERV-A;29;0;29;198
+PERV;PERV-A-C;1;0;1;6
+PERV;PERV-Alike;2;0;2;6
+PERV;PERV-B;24;0;24;165
+PERV;PERV-C;15;0;15;99
+PERV;PERV-Clike;5;0;5;13
+PERV;PERV-JX1;3;0;3;24
+PERV;PERV-JX2;1;0;1;9
+PERV;PERV-JX2like;1;0;1;5
+PERV;PERV-JX3;1;0;1;7
+PERV;PERV-JX3like;3;0;3;18
+PERV;PERV-JX4;1;0;1;7
+PERV;PERV-UC;4;0;4;10
+ERV_outros;ERV1;0;1;1;5
+ERV_outros;ERV10;0;1;1;4
+ERV_outros;ERV11;0;1;1;3
+ERV_outros;ERV12;0;1;1;4
+ERV_outros;ERV13;0;1;1;3
+ERV_outros;ERV14;0;1;1;3
+ERV_outros;ERV15;0;1;1;1
+ERV_outros;ERV16;0;1;1;3
+ERV_outros;ERV17;0;1;1;3
+ERV_outros;ERV18;0;1;1;3
+ERV_outros;ERV2;0;1;1;5
+ERV_outros;ERV3;0;1;1;5
+ERV_outros;ERV4;0;1;1;4
+ERV_outros;ERV5;0;1;1;4
+ERV_outros;ERV7;0;1;1;3
+ERV_outros;ERV8;0;1;1;4
+ERV_outros;ERV9;0;1;1;4
+SINE_referencias;AmnSINE1;0;1;1;1
+SINE_referencias;AmnSINE2;0;1;1;1
+SINE_referencias;CHR-1;0;1;1;1
+SINE_referencias;CHR-2;0;1;1;1
+SINE_referencias;CHRL;0;1;1;1
+SINE_referencias;CRP1;0;1;1;1
+SINE_referencias;LFSINE_Vert;0;1;1;1
+SINE_referencias;LmeSINE1c;0;1;1;1
+SINE_referencias;MIR;0;1;1;1
+SINE_referencias;MIR1_Amn;0;1;1;1
+SINE_referencias;MIR3;0;1;1;1
+SINE_referencias;MIRb;0;1;1;1
+SINE_referencias;MIRc;0;1;1;1
+SINE_referencias;MamSINE1;0;1;1;1
+SINE_transcritos;SINE associado a transcrito;3;0;3;5
+Referencia_RNA;7SLRNA;0;1;1;1

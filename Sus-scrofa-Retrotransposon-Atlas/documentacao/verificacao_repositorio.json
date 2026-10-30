@@ -1,0 +1,41 @@
+{
+  "arquivos_fasta": 34,
+  "registros_fasta": 1607,
+  "linhas_manifesto": 1607,
+  "identificadores": 310,
+  "por_classe": {
+    "ERV_outros": {
+      "registros_fasta": 61,
+      "identificadores": 17
+    },
+    "LINE": {
+      "registros_fasta": 542,
+      "identificadores": 57
+    },
+    "PERV": {
+      "registros_fasta": 580,
+      "identificadores": 97
+    },
+    "Referencia_RNA": {
+      "registros_fasta": 1,
+      "identificadores": 1
+    },
+    "SINE": {
+      "registros_fasta": 404,
+      "identificadores": 121
+    },
+    "SINE_referencias": {
+      "registros_fasta": 14,
+      "identificadores": 14
+    },
+    "SINE_transcritos": {
+      "registros_fasta": 5,
+      "identificadores": 3
+    }
+  },
+  "conjunto_principal": {
+    "registros_fasta": 1526,
+    "identificadores": 275
+  },
+  "inconsistencias_tecnicas": []
+}

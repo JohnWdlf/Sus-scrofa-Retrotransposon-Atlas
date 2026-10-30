@@ -1,0 +1,12 @@
+ESTRUTURA CONFORME O TCC
+
+1. FASTA (dados/FASTA): classe e região; subtipo consultado pelo manifesto/índices.
+2. PLANILHAS (dados/planilhas): Resumo, Subtipos, Origens, Regioes, Conferencia, Metodo.
+3. METADADOS (metadados): triagem e log; associações bibliográficas.
+4. TABELAS (dados/tabelas): manifesto, inventário, regiões, deduplicação e conferência.
+5. ÍNDICES (dados/indices): LINE, SINE, PERV, complementares, sem replicar FASTAs.
+6. DOCUMENTAÇÃO (documentacao): dicionário de campos e auditorias.
+7. SCRIPTS (scripts): validação atual e auditoria histórica.
+
+Os arquivos FASTA não foram renomeados, reparticionados ou duplicados.
+O manifesto preserva os caminhos relativos e a numeração das entradas descritas no TCC.
