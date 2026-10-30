@@ -1,4 +1,4 @@
-# Atls retrotransposons de *Sus scrofa* Release v1.0
+# Atls retrotransposons de *Sus scrofa* Versão 1.0
 
 Coleção documental de sequências nucleotídicas e metadados de LINEs, SINEs e retrovírus endógenos suínos (PERVs), organizada por classe, subtipo, identificador de origem e região estrutural. Este repositório corresponde ao conjunto de dados utilizado no Trabalho de Conclusão de Curso da Pontifícia Universidade Católica do Paraná (PUCPR), 2026.
 
