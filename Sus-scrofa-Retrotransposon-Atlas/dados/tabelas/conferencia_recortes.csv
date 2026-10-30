@@ -1,0 +1,10 @@
+﻿Verificação;Origem;Arquivo;Cabeçalho;Resultado
+Tamanho informado;Artigo 2019;LINE/L1C/L1C__ORF2.fasta;L1C1#LINE/L1C|part=ORF2|start=3062|end=6855|len=3794|active_count=None;"Informado 3794; observado 3803"
+Recorte vs FULL;Artigo 2019;LINE/L1C/L1C__ORF2.fasta;L1C1#LINE/L1C|part=ORF2|start=3062|end=6855|len=3794|active_count=None;Não coincide com o intervalo da sequência FULL fornecida
+Tamanho informado;Artigo 2019;LINE/L1D (Ativa)/L1D__ORF2.fasta;L1D14#LINE/L1D|part=ORF2|start=3129|end=6946|len=3818|active_count=None;"Informado 3818; observado 3817"
+Recorte vs FULL;Artigo 2019;LINE/L1D (Ativa)/L1D__ORF2.fasta;L1D14#LINE/L1D|part=ORF2|start=3129|end=6946|len=3818|active_count=None;Não coincide com o intervalo da sequência FULL fornecida
+Variante entre pacotes;Anterior;Sequencias_separadas/LINE/LINE_nao_separadas.fasta;SscL1A6#LINE/L1A;"Fragmento não contido literalmente no FULL homônimo novo; ambas as versões preservadas, um único identificador/modelo na contagem."
+Variante entre pacotes;Anterior;Sequencias_separadas/SINE/SINE_body.fasta;SscSINEA6#SINE/SINEA;"Fragmento não contido literalmente no FULL homônimo novo; ambas as versões preservadas, um único identificador/modelo na contagem."
+Variante entre pacotes;Anterior;Sequencias_separadas/SINE/SINE_head.fasta;SscSINEA10#SINE/SINEA;"Fragmento não contido literalmente no FULL homônimo novo; ambas as versões preservadas, um único identificador/modelo na contagem."
+Variante entre pacotes;Anterior;Sequencias_separadas/SINE/SINE_nao_separadas.fasta;SscSINEB3#SINE/SINEB;"Fragmento não contido literalmente no FULL homônimo novo; ambas as versões preservadas, um único identificador/modelo na contagem."
+Variante entre pacotes;Anterior;Sequencias_separadas/SINE/SINE_nao_separadas.fasta;SscSINEC1#SINE/SINEC;"Fragmento não contido literalmente no FULL homônimo novo; ambas as versões preservadas, um único identificador/modelo na contagem."

@@ -1,0 +1,72 @@
+{
+  "data_da_revisao": "2026-10-26",
+  "python": "3.12.14",
+  "arquivos_fasta": 34,
+  "registros_fasta": 1607,
+  "linhas_manifesto": 1607,
+  "identificadores": 310,
+  "por_classe": {
+    "ERV_outros": {
+      "identificadores": 17,
+      "registros_fasta": 61
+    },
+    "LINE": {
+      "identificadores": 57,
+      "registros_fasta": 542
+    },
+    "PERV": {
+      "identificadores": 97,
+      "registros_fasta": 580
+    },
+    "Referencia_RNA": {
+      "identificadores": 1,
+      "registros_fasta": 1
+    },
+    "SINE_referencias": {
+      "identificadores": 14,
+      "registros_fasta": 14
+    },
+    "SINE": {
+      "identificadores": 121,
+      "registros_fasta": 404
+    },
+    "SINE_transcritos": {
+      "identificadores": 3,
+      "registros_fasta": 5
+    }
+  },
+  "divergencias_manifesto": [],
+  "origens_de_integracao": {
+    "Anterior": {
+      "identificadores": 278,
+      "registros_fasta": 1153
+    },
+    "Artigo 2019": {
+      "identificadores": 112,
+      "registros_fasta": 454
+    }
+  },
+  "openpyxl": "3.1.5",
+  "triagem": {
+    "registros": 3899,
+    "titulo_resumo": {
+      "0": 3746,
+      "1": 153
+    },
+    "texto_completo": {
+      "None": 3816,
+      "0": 39,
+      "1": 44
+    },
+    "extracao": {
+      "None": 3816,
+      "0": 56,
+      "1": 27
+    },
+    "evidencia": {
+      "0": 3867,
+      "1": 32
+    },
+    "selecionados_sem_decisao_texto": 71
+  }
+}

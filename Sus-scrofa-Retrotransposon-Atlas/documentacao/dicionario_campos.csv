@@ -1,0 +1,15 @@
+﻿Campo;Definição;Exemplo
+Classe;Categoria documental do registro.;"LINE; SINE; PERV; material complementar"
+Subtipo;Classificação preservada da fonte.;"L1A; SINEA; PERV-A"
+ID de origem;Chave que reúne sequência integral e fragmentos.;L1A1
+Arquivo;Caminho relativo do FASTA na coleção.;LINE/LINE_ORF1.fasta
+Número no arquivo;Posição da entrada dentro do arquivo FASTA.;50
+Região;"Parte anotada; não constitui validação funcional.";"ORF1; 5UTR; head; LTR5"
+Tamanho (nt);Número observado de nucleotídeos.;905
+SHA256;Resumo criptográfico da sequência em maiúsculas.;64 caracteres hexadecimais
+Cabeçalho de entrada;Identificação literal preservada da entrada recebida.;L1A1#LINE/L1A|part=ORF1|…
+Origem no manifesto;Conjunto de integração de onde veio a entrada.;"Anterior; Artigo 2019"
+DOI ou fonte no log;Vínculo bibliográfico ou técnico disponível.;10.1186/s13100-019-0161-8
+Acesso ou locus;Identificação de depósito ou posição genômica.;"AM229311.1; locus anotado"
+Coordenadas e montagem;Localização preservada, quando informada pela fonte.;"Sscrofa11.1; start/end relativos ao FULL são tratados à parte"
+Status de conferência;Resultado documental da verificação.;"FASTA conferido; divergência de recorte"
